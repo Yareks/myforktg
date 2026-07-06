@@ -1,0 +1,70 @@
+name: Android Build
+
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up JDK 17
+      uses: actions/setup-java@v4
+      with:
+        java-version: '17'
+        distribution: 'temurin'
+        cache: gradle
+
+    - name: Auto-heal missing Telegram workspace files
+      run: |
+        mkdir -p telegram-official
+        echo "Скачиваем официальный репозиторий Telegram для восстановления пропущенных файлов..."
+        git clone --depth 1 https://github.com/DrKLO/Telegram.git official-temp
+        
+        echo "Объединяем файлы (ваши изменения БУДУТ СОХРАНЕНЫ, копируются только отсутствующие файлы)..."
+        # rsync с параметром --ignore-existing скопирует только те файлы, которых у вас физически нет
+        rsync -av --ignore-existing official-temp/ telegram-official/
+        
+        # Очистка временных файлов
+        rm -rf official-temp
+        echo "Автовосстановление структуры проекта успешно завершено."
+
+    - name: Fix missing JNI CMakeLists.txt
+      run: |
+        TARGET_DIR="telegram-official/TMessagesProj/jni"
+        if [ ! -f "$TARGET_DIR/CMakeLists.txt" ]; then
+          echo "WARNING: jni/CMakeLists.txt не найден!"
+          echo "Скачиваем недостающую директорию jni из официального репозитория Telegram..."
+          git clone --depth 1 https://github.com/DrKLO/Telegram.git official-temp
+          mkdir -p "telegram-official/TMessagesProj"
+          rm -rf "$TARGET_DIR"
+          cp -r official-temp/TMessagesProj/jni "telegram-official/TMessagesProj/"
+          rm -rf official-temp
+          echo "Директория jni успешно восстановлена."
+        else
+          echo "jni/CMakeLists.txt на месте. Восстановление не требуется."
+        fi
+
+    - name: Build APK (Release)
+      run: |
+        if [ -f "./gradlew" ]; then
+          chmod +x ./gradlew
+          ./gradlew assembleRelease
+        elif [ -f "./telegram-official/gradlew" ]; then
+          chmod +x ./telegram-official/gradlew
+          cd telegram-official
+          ./gradlew assembleRelease
+        else
+          echo "Ошибка: Файл gradlew не найден!"
+          exit 1
+        fi
+
+    - name: Upload Release APK
+      uses: actions/upload-artifact@v4
+      with:
+        name: Telegram-CatFork-Release-APK
+        path: '**/build/outputs/apk/release/*.apk'

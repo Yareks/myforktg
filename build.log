@@ -1,0 +1,1644 @@
+To honour the JVM settings for this build a single-use Daemon process will be forked. For more on this, please refer to https://docs.gradle.org/8.7/userguide/gradle_daemon.html#sec:disabling_the_daemon in the Gradle documentation.
+Daemon will be stopped at the end of the build 
+> Task :buildSrc:checkKotlinGradlePluginConfigurationErrors
+> Task :buildSrc:compileKotlin UP-TO-DATE
+> Task :buildSrc:compileJava NO-SOURCE
+> Task :buildSrc:compileGroovy NO-SOURCE
+> Task :buildSrc:pluginDescriptors UP-TO-DATE
+> Task :buildSrc:processResources UP-TO-DATE
+> Task :buildSrc:classes UP-TO-DATE
+> Task :buildSrc:jar UP-TO-DATE
+
+> Configure project :TMessagesProj
+WARNING: The option setting 'android.defaults.buildfeatures.buildconfig=true' is deprecated.
+The current default is 'false'.
+It will be removed in version 9.0 of the Android Gradle plugin.
+To keep using this feature, add the following to your module-level build.gradle files:
+    android.buildFeatures.buildConfig = true
+or from Android Studio, click: `Refactor` > `Migrate BuildConfig to Gradle Build Files`.
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+
+> Configure project :TMessagesProj_AppHuawei
+--W- Build Environment: AGConnect plugin version is: 1.9.1.301, Gradle version is: 8.7, Android Plugin version is: 8.6.1
+--I- Using the AGConnect-Config file: /home/user/telegram-official/TMessagesProj_AppHuawei/agconnect-services.json
+--W- The variant: afatDebug, Use the json file: /home/user/telegram-official/TMessagesProj_AppHuawei/agconnect-services.json
+--I- Using the AGConnect-Config file: /home/user/telegram-official/TMessagesProj_AppHuawei/agconnect-services.json
+--W- The variant: afatRelease, Use the json file: /home/user/telegram-official/TMessagesProj_AppHuawei/agconnect-services.json
+
+> Task :TMessagesProj:checkVisibility
+> Task :TMessagesProj:preBuild
+> Task :TMessagesProj:preStandaloneBuild
+
+> Task :TMessagesProj:configureCMakeRelWithDebInfo[arm64-v8a]
+C/C++: CMake Warning (dev) in CMakeLists.txt:
+C/C++:   No project() command is present.  The top-level CMakeLists.txt file must
+C/C++:   contain a literal, direct call to the project() command.  Add a line of
+C/C++:   code such as
+C/C++:     project(ProjectName)
+C/C++:   near the top of the file, but after cmake_minimum_required().
+C/C++:   CMake is pretending there is a "project(Project)" command on the first
+C/C++:   line.
+C/C++: This warning is for project developers.  Use -Wno-dev to suppress it.
+
+> Task :TMessagesProj:buildCMakeRelWithDebInfo[arm64-v8a]
+C/C++: ninja: Entering directory `/home/user/telegram-official/TMessagesProj/.cxx/RelWithDebInfo/39213i5m/arm64-v8a'
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/Connection.cpp:216:93: warning: '&&' within '||' [-Wlogical-op-parentheses]
+C/C++:   216 |         if (currentProtocolType != ProtocolTypeDD && currentProtocolType != ProtocolTypeTLS && currentPacketLength % 4 != 0 || currentPacketLength > 2 * 1024 * 1024) {
+C/C++:       |             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/Connection.cpp:216:93: note: place parentheses around the '&&' expression to silence this warning
+C/C++:   216 |         if (currentProtocolType != ProtocolTypeDD && currentProtocolType != ProtocolTypeTLS && currentPacketLength % 4 != 0 || currentPacketLength > 2 * 1024 * 1024) {
+C/C++:       |                                                                                             ^
+C/C++:       |             (                                                                                                              )
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/Connection.cpp:527:223: warning: '&&' within '||' [-Wlogical-op-parentheses]
+C/C++:   527 |             if (currentProtocolType == ProtocolTypeTLS || bytes[0] != 0xef && val != 0x44414548 && val != 0x54534f50 && val != 0x20544547 && val != 0x4954504f && val != 0xeeeeeeee && val != 0xdddddddd && val != 0x02010316 && val2 != 0x00000000) {
+C/C++:       |                                                        ~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/Connection.cpp:527:223: note: place parentheses around the '&&' expression to silence this warning
+C/C++:   527 |             if (currentProtocolType == ProtocolTypeTLS || bytes[0] != 0xef && val != 0x44414548 && val != 0x54534f50 && val != 0x20544547 && val != 0x4954504f && val != 0xeeeeeeee && val != 0xdddddddd && val != 0x02010316 && val2 != 0x00000000) {
+C/C++:       |                                                                                                                                                                                                                               ^                    
+C/C++:       |                                                           (                                                                                                                                                                                        )
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/Connection.cpp:660:57: warning: '&&' within '||' [-Wlogical-op-parentheses]
+C/C++:   660 |     bool switchToNextPort = reason == 2 && wasConnected && (!hasSomeDataSinceLastConnect || currentDatacenter->isCustomPort(currentAddressFlags)) || forceNextPort;
+C/C++:       |                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/Connection.cpp:660:57: note: place parentheses around the '&&' expression to silence this warning
+C/C++:   660 |     bool switchToNextPort = reason == 2 && wasConnected && (!hasSomeDataSinceLastConnect || currentDatacenter->isCustomPort(currentAddressFlags)) || forceNextPort;
+C/C++:       |                                                         ^
+C/C++:       |                             (                                                                                                                    )
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/Connection.cpp:715:62: warning: '&&' within '||' [-Wlogical-op-parentheses]
+C/C++:   715 |             if (connectionType == ConnectionTypeGenericMedia && currentDatacenter->isHandshaking(true) || connectionType == ConnectionTypeGeneric && (currentDatacenter->isHandshaking(false) || datacenterId == ConnectionsManager::getInstance(currentDatacenter->instanceNum).currentDatacenterId || datacenterId == ConnectionsManager::getInstance(currentDatacenter->instanceNum).movingToDatacenterId)) {
+C/C++:       |                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/Connection.cpp:715:62: note: place parentheses around the '&&' expression to silence this warning
+C/C++:   715 |             if (connectionType == ConnectionTypeGenericMedia && currentDatacenter->isHandshaking(true) || connectionType == ConnectionTypeGeneric && (currentDatacenter->isHandshaking(false) || datacenterId == ConnectionsManager::getInstance(currentDatacenter->instanceNum).currentDatacenterId || datacenterId == ConnectionsManager::getInstance(currentDatacenter->instanceNum).movingToDatacenterId)) {
+C/C++:       |                                                              ^
+C/C++:       |                 (                                                                                     )
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/Connection.cpp:715:147: warning: '&&' within '||' [-Wlogical-op-parentheses]
+C/C++:   715 |             if (connectionType == ConnectionTypeGenericMedia && currentDatacenter->isHandshaking(true) || connectionType == ConnectionTypeGeneric && (currentDatacenter->isHandshaking(false) || datacenterId == ConnectionsManager::getInstance(currentDatacenter->instanceNum).currentDatacenterId || datacenterId == ConnectionsManager::getInstance(currentDatacenter->instanceNum).movingToDatacenterId)) {
+C/C++:       |                                                                                                        ~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/Connection.cpp:715:147: note: place parentheses around the '&&' expression to silence this warning
+C/C++:   715 |             if (connectionType == ConnectionTypeGenericMedia && currentDatacenter->isHandshaking(true) || connectionType == ConnectionTypeGeneric && (currentDatacenter->isHandshaking(false) || datacenterId == ConnectionsManager::getInstance(currentDatacenter->instanceNum).currentDatacenterId || datacenterId == ConnectionsManager::getInstance(currentDatacenter->instanceNum).movingToDatacenterId)) {
+C/C++:       |                                                                                                                                                   ^                                                                                                                                                                                                                                                          
+C/C++:       |                                                                                                           (                                                                                                                                                                                                                                                                                                  )
+C/C++: 5 warnings generated.
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/ConnectionSocket.cpp:1095:29: warning: '&&' within '||' [-Wlogical-op-parentheses]
+C/C++:  1095 |     if (proxyAuthState == 0 && (outgoingByteStream->hasData() || !onConnectedSent) || proxyAuthState == 1 || proxyAuthState == 3 || proxyAuthState == 5 || proxyAuthState == 10) {
+C/C++:       |         ~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/ConnectionSocket.cpp:1095:29: note: place parentheses around the '&&' expression to silence this warning
+C/C++:  1095 |     if (proxyAuthState == 0 && (outgoingByteStream->hasData() || !onConnectedSent) || proxyAuthState == 1 || proxyAuthState == 3 || proxyAuthState == 5 || proxyAuthState == 10) {
+C/C++:       |                             ^
+C/C++:       |         (                                                                         )
+C/C++: 1 warning generated.
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/Datacenter.cpp:199:62: warning: '&&' within '||' [-Wlogical-op-parentheses]
+C/C++:   199 |     if (flags == 0 && (authKeyPerm == nullptr || PFS_ENABLED && authKeyTemp == nullptr) && !addressesIpv4Temp.empty()) {
+C/C++:       |                                               ~~ ~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/Datacenter.cpp:199:62: note: place parentheses around the '&&' expression to silence this warning
+C/C++:   199 |     if (flags == 0 && (authKeyPerm == nullptr || PFS_ENABLED && authKeyTemp == nullptr) && !addressesIpv4Temp.empty()) {
+C/C++:       |                                                  ~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/Datacenter.cpp:257:62: warning: '&&' within '||' [-Wlogical-op-parentheses]
+C/C++:   257 |     if (flags == 0 && (authKeyPerm == nullptr || PFS_ENABLED && authKeyTemp == nullptr) && !addressesIpv4Temp.empty()) {
+C/C++:       |                                               ~~ ~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/Datacenter.cpp:257:62: note: place parentheses around the '&&' expression to silence this warning
+C/C++:   257 |     if (flags == 0 && (authKeyPerm == nullptr || PFS_ENABLED && authKeyTemp == nullptr) && !addressesIpv4Temp.empty()) {
+C/C++:       |                                                  ~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/Datacenter.cpp:377:62: warning: '&&' within '||' [-Wlogical-op-parentheses]
+C/C++:   377 |     if (flags == 0 && (authKeyPerm == nullptr || PFS_ENABLED && authKeyTemp == nullptr) && !addressesIpv4Temp.empty()) {
+C/C++:       |                                               ~~ ~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/Datacenter.cpp:377:62: note: place parentheses around the '&&' expression to silence this warning
+C/C++:   377 |     if (flags == 0 && (authKeyPerm == nullptr || PFS_ENABLED && authKeyTemp == nullptr) && !addressesIpv4Temp.empty()) {
+C/C++:       |                                                  ~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/Datacenter.cpp:446:62: warning: '&&' within '||' [-Wlogical-op-parentheses]
+C/C++:   446 |     if (flags == 0 && (authKeyPerm == nullptr || PFS_ENABLED && authKeyTemp == nullptr) && !addressesIpv4Temp.empty()) {
+C/C++:       |                                               ~~ ~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/Datacenter.cpp:446:62: note: place parentheses around the '&&' expression to silence this warning
+C/C++:   446 |     if (flags == 0 && (authKeyPerm == nullptr || PFS_ENABLED && authKeyTemp == nullptr) && !addressesIpv4Temp.empty()) {
+C/C++:       |                                                  ~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~
+C/C++: 4 warnings generated.
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/NativeByteBuffer.cpp:17:12: warning: unused variable 'buffersCount' [-Wunused-variable]
+C/C++:    17 | static int buffersCount = 0;
+C/C++:       |            ^~~~~~~~~~~~
+C/C++: 1 warning generated.
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/Request.cpp:82:19: warning: '&&' within '||' [-Wlogical-op-parentheses]
+C/C++:    82 |     return !media && datacenter->lastInitVersion != currentVersion || media && datacenter->lastInitMediaVersion != currentVersion;
+C/C++:       |            ~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/Request.cpp:82:19: note: place parentheses around the '&&' expression to silence this warning
+C/C++:    82 |     return !media && datacenter->lastInitVersion != currentVersion || media && datacenter->lastInitMediaVersion != currentVersion;
+C/C++:       |                   ^
+C/C++:       |            (                                                      )
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/Request.cpp:82:77: warning: '&&' within '||' [-Wlogical-op-parentheses]
+C/C++:    82 |     return !media && datacenter->lastInitVersion != currentVersion || media && datacenter->lastInitMediaVersion != currentVersion;
+C/C++:       |                                                                    ~~ ~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/Request.cpp:82:77: note: place parentheses around the '&&' expression to silence this warning
+C/C++:    82 |     return !media && datacenter->lastInitVersion != currentVersion || media && datacenter->lastInitMediaVersion != currentVersion;
+C/C++:       |                                                                             ^                                                    
+C/C++:       |                                                                       (                                                          )
+C/C++: 2 warnings generated.
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/ConnectionsManager.cpp:1243:127: warning: format specifies type 'long long' but the argument has type 'int64_t' (aka 'long') [-Wformat]
+C/C++:  1243 |             if (LOGS_ENABLED) DEBUG_D("message_id %lld connection(%p, account%u, dc%u, type %d) received rpc_result with %s", messageId, connection, instanceNum, datacenter->getDatacenterId(), connection->getConnectionType(), typeid(*object).name());
+C/C++:       |                                                   ~~~~                                                                        ^~~~~~~~~
+C/C++:       |                                                   %ld
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/ConnectionsManager.cpp:1247:132: warning: format specifies type 'long long' but the argument has type 'int64_t' (aka 'long') [-Wformat]
+C/C++:  1247 |             if (LOGS_ENABLED) DEBUG_E("message_id %lld req_msg_id %lld connection(%p, account%u, dc%u, type %d) rpc error %d: %s", messageId, resultMid, connection, instanceNum, datacenter->getDatacenterId(), connection->getConnectionType(), error->error_code, error->error_message.c_str());
+C/C++:       |                                                   ~~~~                                                                             ^~~~~~~~~
+C/C++:       |                                                   %ld
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/ConnectionsManager.cpp:1247:143: warning: format specifies type 'long long' but the argument has type 'int64_t' (aka 'long') [-Wformat]
+C/C++:  1247 |             if (LOGS_ENABLED) DEBUG_E("message_id %lld req_msg_id %lld connection(%p, account%u, dc%u, type %d) rpc error %d: %s", messageId, resultMid, connection, instanceNum, datacenter->getDatacenterId(), connection->getConnectionType(), error->error_code, error->error_message.c_str());
+C/C++:       |                                                                   ~~~~                                                                        ^~~~~~~~~
+C/C++:       |                                                                   %ld
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/ConnectionsManager.cpp:1952:101: warning: expression with side effects will be evaluated despite being used as an operand to 'typeid' [-Wpotentially-evaluated-expression]
+C/C++:  1952 |         if (LOGS_ENABLED) DEBUG_D("send request wrapped %p - %s", request->rpcRequest.get(), typeid(*(request->rpcRequest.get())).name());
+C/C++:       |                                                                                                     ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/ConnectionsManager.cpp:2028:52: warning: format specifies type 'long long' but the argument has type 'int64_t' (aka 'long') [-Wformat]
+C/C++:  2028 |         if (LOGS_ENABLED) DEBUG_D("set user %lld", userId);
+C/C++:       |                                             ~~~~   ^~~~~~
+C/C++:       |                                             %ld
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/ConnectionsManager.cpp:2206:5: warning: non-void lambda does not return a value in all control paths [-Wreturn-type]
+C/C++:  2206 |     });
+C/C++:       |     ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/ConnectionsManager.cpp:3053:155: warning: expression with side effects will be evaluated despite being used as an operand to 'typeid' [-Wpotentially-evaluated-expression]
+C/C++:  3053 |                             if (LOGS_ENABLED) DEBUG_D("wrap body(%p, %s) to TL_invokeAfterMsg, token = %d, after 0x%" PRIx64, message->body.get(), typeid(*(message->body.get())).name(), networkMessage->requestId, request->msg_id);
+C/C++:       |                                                                                                                                                           ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/ConnectionsManager.cpp:3246:17: warning: unused variable 'is_inited' [-Wunused-variable]
+C/C++:  3246 |     static bool is_inited = []() {
+C/C++:       |                 ^~~~~~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/ConnectionsManager.cpp:3278:43: warning: array subscript is of type 'char' [-Wchar-subscripts]
+C/C++:  3278 |             auto value = url_char_to_value[base64.c_str()[i++]];
+C/C++:       |                                           ^~~~~~~~~~~~~~~~~~~~
+C/C++: 9 warnings generated.
+C/C++: /home/user/telegram-official/TMessagesProj/jni/rlottie/src/lottie/lottiemodel.cpp:211:73: warning: '&&' within '||' [-Wlogical-op-parentheses]
+C/C++:   211 |     if (opacityArraySize % 2 != 0 || colorPoints > opacityArraySize / 2 && opacityArraySize < 4) {
+C/C++:       |                                   ~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/rlottie/src/lottie/lottiemodel.cpp:211:73: note: place parentheses around the '&&' expression to silence this warning
+C/C++:   211 |     if (opacityArraySize % 2 != 0 || colorPoints > opacityArraySize / 2 && opacityArraySize < 4) {
+C/C++:       |                                                                         ^                      
+C/C++:       |                                      (                                                         )
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/rlottie/src/lottie/lottieparser.cpp:58:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/./tgnet/FileLog.h:12:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/./tgnet/Defines.h:142:16: warning: 'ConnectiosManagerDelegate' has virtual functions but non-virtual destructor [-Wnon-virtual-dtor]
+C/C++:   142 | typedef struct ConnectiosManagerDelegate {
+C/C++:       |                ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/./tgnet/Defines.h:161:16: warning: 'HandshakeDelegate' has virtual functions but non-virtual destructor [-Wnon-virtual-dtor]
+C/C++:   161 | typedef struct HandshakeDelegate {
+C/C++:       |                ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/rlottie/src/lottie/lottieparser.cpp:186:60: warning: field 'colorMap' will be initialized after field 'mFitzModifier' [-Wreorder-ctor]
+C/C++:   186 |         : LookaheadParserHandler(str), mDirPath(dir_path), colorMap(colorReplacement), mFitzModifier(fitzModifier)
+C/C++:       |                                        ~~~~~~~~~~~~~~~~~~  ^~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C/C++:       |                                        mFitzModifier(fitzModifier) mDirPath(dir_path)  colorMap(colorReplacement)
+C/C++: 3 warnings generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/rlottie/src/vector/vraster.cpp:22:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/./tgnet/FileLog.h:12:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/./tgnet/Defines.h:142:16: warning: 'ConnectiosManagerDelegate' has virtual functions but non-virtual destructor [-Wnon-virtual-dtor]
+C/C++:   142 | typedef struct ConnectiosManagerDelegate {
+C/C++:       |                ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/./tgnet/Defines.h:161:16: warning: 'HandshakeDelegate' has virtual functions but non-virtual destructor [-Wnon-virtual-dtor]
+C/C++:   161 | typedef struct HandshakeDelegate {
+C/C++:       |                ^
+C/C++: 2 warnings generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/logging.cpp:12:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.h:24:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/video/VideoSource.h:12:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/video/../Buffers.h:19:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/video/../threading.h:110:8: warning: private field 'maxPriority' is not used [-Wunused-private-field]
+C/C++:   110 |                 bool maxPriority=false;
+C/C++:       |                      ^
+C/C++: 1 warning generated.
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPGroupController.cpp:628:24: warning: variable length arrays in C++ are a Clang extension [-Wvla-cxx-extension]
+C/C++:   628 |                 unsigned char aesOut[MSC_STACK_FALLBACK(inner.GetLength(), 1500)];
+C/C++:       |                                      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/PrivateDefines.h:119:34: note: expanded from macro 'MSC_STACK_FALLBACK'
+C/C++:   119 | #define MSC_STACK_FALLBACK(a, b) (a)
+C/C++:       |                                  ^~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPGroupController.cpp:628:49: note: non-constexpr function 'GetLength' cannot be used in a constant expression
+C/C++:   628 |                 unsigned char aesOut[MSC_STACK_FALLBACK(inner.GetLength(), 1500)];
+C/C++:       |                                                               ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/video/../Buffers.h:66:10: note: declared here
+C/C++:    66 |                 size_t GetLength();
+C/C++:       |                        ^
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPGroupController.cpp:7:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.h:24:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/video/VideoSource.h:12:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/video/../Buffers.h:19:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/video/../threading.h:110:8: warning: private field 'maxPriority' is not used [-Wunused-private-field]
+C/C++:   110 |                 bool maxPriority=false;
+C/C++:       |                      ^
+C/C++: 2 warnings generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/audio/AudioInput.cpp:7:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/audio/AudioInput.h:13:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/audio/../MediaStreamItf.h:14:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/audio/../threading.h:110:8: warning: private field 'maxPriority' is not used [-Wunused-private-field]
+C/C++:   110 |                 bool maxPriority=false;
+C/C++:       |                      ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/BlockingQueue.cpp:7:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/BlockingQueue.h:12:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/threading.h:110:8: warning: private field 'maxPriority' is not used [-Wunused-private-field]
+C/C++:   110 |                 bool maxPriority=false;
+C/C++:       |                      ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/Buffers.cpp:7:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/Buffers.h:19:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/threading.h:110:8: warning: private field 'maxPriority' is not used [-Wunused-private-field]
+C/C++:   110 |                 bool maxPriority=false;
+C/C++:       |                      ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/AudioInputOpenSLES.cpp:11:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/AudioInputOpenSLES.h:13:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/../../audio/AudioInput.h:13:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/../../audio/../MediaStreamItf.h:14:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/../../audio/../threading.h:110:8: warning: private field 'maxPriority' is not used [-Wunused-private-field]
+C/C++:   110 |                 bool maxPriority=false;
+C/C++:       |                      ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/MediaStreamItf.cpp:8:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/MediaStreamItf.h:14:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/threading.h:110:8: warning: private field 'maxPriority' is not used [-Wunused-private-field]
+C/C++:   110 |                 bool maxPriority=false;
+C/C++:       |                      ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/audio/AudioOutput.cpp:19:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/audio/../os/android/AudioOutputAndroid.h:20:15: warning: 'Start' overrides a member function but is not marked 'override' [-Winconsistent-missing-override]
+C/C++:    20 |         virtual void Start();
+C/C++:       |                      ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/audio/../MediaStreamItf.h:24:15: note: overridden virtual function is here
+C/C++:    24 |         virtual void Start()=0;
+C/C++:       |                      ^
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/audio/AudioOutput.cpp:19:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/audio/../os/android/AudioOutputAndroid.h:21:15: warning: 'Stop' overrides a member function but is not marked 'override' [-Winconsistent-missing-override]
+C/C++:    21 |         virtual void Stop();
+C/C++:       |                      ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/audio/../MediaStreamItf.h:25:15: note: overridden virtual function is here
+C/C++:    25 |         virtual void Stop()=0;
+C/C++:       |                      ^
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/audio/AudioOutput.cpp:7:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/audio/AudioOutput.h:14:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/audio/../MediaStreamItf.h:14:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/audio/../threading.h:110:8: warning: private field 'maxPriority' is not used [-Wunused-private-field]
+C/C++:   110 |                 bool maxPriority=false;
+C/C++:       |                      ^
+C/C++: 3 warnings generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/CongestionControl.cpp:7:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/CongestionControl.h:12:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/threading.h:110:8: warning: private field 'maxPriority' is not used [-Wunused-private-field]
+C/C++:   110 |                 bool maxPriority=false;
+C/C++:       |                      ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/AudioOutputOpenSLES.cpp:10:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/AudioOutputOpenSLES.h:13:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/../../audio/AudioOutput.h:14:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/../../audio/../MediaStreamItf.h:14:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/../../audio/../threading.h:110:8: warning: private field 'maxPriority' is not used [-Wunused-private-field]
+C/C++:   110 |                 bool maxPriority=false;
+C/C++:       |                      ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/OpusEncoder.cpp:7:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/OpusEncoder.h:11:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/MediaStreamItf.h:14:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/threading.h:110:8: warning: private field 'maxPriority' is not used [-Wunused-private-field]
+C/C++:   110 |                 bool maxPriority=false;
+C/C++:       |                      ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/JitterBuffer.cpp:7:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.h:24:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/video/VideoSource.h:12:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/video/../Buffers.h:19:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/video/../threading.h:110:8: warning: private field 'maxPriority' is not used [-Wunused-private-field]
+C/C++:   110 |                 bool maxPriority=false;
+C/C++:       |                      ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/OpusDecoder.cpp:7:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/OpusDecoder.h:11:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/MediaStreamItf.h:14:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/threading.h:110:8: warning: private field 'maxPriority' is not used [-Wunused-private-field]
+C/C++:   110 |                 bool maxPriority=false;
+C/C++:       |                      ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/AudioInputAndroid.cpp:7:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/AudioInputAndroid.h:11:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/../../audio/AudioInput.h:13:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/../../audio/../MediaStreamItf.h:14:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/../../audio/../threading.h:110:8: warning: private field 'maxPriority' is not used [-Wunused-private-field]
+C/C++:   110 |                 bool maxPriority=false;
+C/C++:       |                      ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/AudioOutputAndroid.cpp:7:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/AudioOutputAndroid.h:20:15: warning: 'Start' overrides a member function but is not marked 'override' [-Winconsistent-missing-override]
+C/C++:    20 |         virtual void Start();
+C/C++:       |                      ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/../../audio/../MediaStreamItf.h:24:15: note: overridden virtual function is here
+C/C++:    24 |         virtual void Start()=0;
+C/C++:       |                      ^
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/AudioOutputAndroid.cpp:7:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/AudioOutputAndroid.h:21:15: warning: 'Stop' overrides a member function but is not marked 'override' [-Winconsistent-missing-override]
+C/C++:    21 |         virtual void Stop();
+C/C++:       |                      ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/../../audio/../MediaStreamItf.h:25:15: note: overridden virtual function is here
+C/C++:    25 |         virtual void Stop()=0;
+C/C++:       |                      ^
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/AudioOutputAndroid.cpp:7:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/AudioOutputAndroid.h:11:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/../../audio/AudioOutput.h:14:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/../../audio/../MediaStreamItf.h:14:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/../../audio/../threading.h:110:8: warning: private field 'maxPriority' is not used [-Wunused-private-field]
+C/C++:   110 |                 bool maxPriority=false;
+C/C++:       |                      ^
+C/C++: 3 warnings generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/EchoCanceller.cpp:12:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/EchoCanceller.h:10:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/threading.h:110:8: warning: private field 'maxPriority' is not used [-Wunused-private-field]
+C/C++:   110 |                 bool maxPriority=false;
+C/C++:       |                      ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPServerConfig.cpp:7:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPServerConfig.h:13:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/threading.h:110:8: warning: private field 'maxPriority' is not used [-Wunused-private-field]
+C/C++:   110 |                 bool maxPriority=false;
+C/C++:       |                      ^
+C/C++: 1 warning generated.
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:422:15: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:   422 |                         Buffer buf(move(s));
+C/C++:       |                                    ^
+C/C++:       |                                    std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:974:13: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:   974 |         Buffer buf(move(s));
+C/C++:       |                    ^
+C/C++:       |                    std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:1053:28: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:  1053 |                 ecAudioPackets.push_back(move(ecBuf));
+C/C++:       |                                          ^
+C/C++:       |                                          std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:1069:21: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:  1069 |                         /*.data=*/Buffer(move(pkt)),
+C/C++:       |                                          ^
+C/C++:       |                                          std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:1075:22: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:  1075 |         SendOrEnqueuePacket(move(p));
+C/C++:       |                             ^
+C/C++:       |                             std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:1079:28: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:  1079 |                 ecAudioPackets.push_back(move(ecBuf));
+C/C++:       |                                          ^
+C/C++:       |                                          std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:1096:12: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:  1096 |                                 Buffer(move(pkt)),
+C/C++:       |                                        ^
+C/C++:       |                                        std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:1099:23: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:  1099 |                 SendOrEnqueuePacket(move(p));
+C/C++:       |                                     ^
+C/C++:       |                                     std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:1448:23: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:  1448 |                                         /*.data=*/Buffer(move(out)),
+C/C++:       |                                                          ^
+C/C++:       |                                                          std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:1691:25: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:  1691 |                                 SendOrEnqueuePacket(move(*opkt), false);
+C/C++:       |                                                     ^
+C/C++:       |                                                     std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:1756:17: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:  1756 |                                                         Buffer b(move(o));
+C/C++:       |                                                                  ^
+C/C++:       |                                                                  std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:1796:19: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:  1796 |                                                         Buffer buf(move(pkt));
+C/C++:       |                                                                    ^
+C/C++:       |                                                                    std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:1823:24: warning: variable length arrays in C++ are a Clang extension [-Wvla-cxx-extension]
+C/C++:  1823 |                 unsigned char aesOut[MSC_STACK_FALLBACK(in.Remaining(), 1500)];
+C/C++:       |                                      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/PrivateDefines.h:119:34: note: expanded from macro 'MSC_STACK_FALLBACK'
+C/C++:   119 | #define MSC_STACK_FALLBACK(a, b) (a)
+C/C++:       |                                  ^~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:1823:46: note: non-constexpr function 'Remaining' cannot be used in a constant expression
+C/C++:  1823 |                 unsigned char aesOut[MSC_STACK_FALLBACK(in.Remaining(), 1500)];
+C/C++:       |                                                            ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/video/../Buffers.h:34:10: note: declared here
+C/C++:    34 |                 size_t Remaining();
+C/C++:       |                        ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:2120:81: warning: format specifies type 'unsigned int' but the argument has type 'size_type' (aka 'unsigned long') [-Wformat]
+C/C++:  2120 |                                                 LOGE("!!!!!!!!!!!!!!11 VIDEO FRAME LOSS DETECTED [1] %u of %u fragments", sentVideoFrames[0].unacknowledgedPackets.size(), sentVideoFrames[0].fragmentCount);
+C/C++:       |                                                                                                      ~~                   ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C/C++:       |                                                                                                      %zu
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/logging.h:32:74: note: expanded from macro 'LOGE'
+C/C++:    32 | #define LOGE(...) {__android_log_print(ANDROID_LOG_ERROR, TAG, _LOG_WRAP(__VA_ARGS__)); tgvoip_log_file_printf('E', __VA_ARGS__);}
+C/C++:       |                                                                          ^~~~~~~~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/logging.h:26:24: note: expanded from macro '_LOG_WRAP'
+C/C++:    26 | #define _LOG_WRAP(...) __VA_ARGS__
+C/C++:       |                        ^~~~~~~~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:2129:80: warning: format specifies type 'unsigned int' but the argument has type 'size_type' (aka 'unsigned long') [-Wformat]
+C/C++:  2129 |                                         LOGE("!!!!!!!!!!!!!!11 VIDEO FRAME LOSS DETECTED [2] %u of %u fragments", f->unacknowledgedPackets.size(), f->fragmentCount);
+C/C++:       |                                                                                              ~~                   ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C/C++:       |                                                                                              %zu
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/logging.h:32:74: note: expanded from macro 'LOGE'
+C/C++:    32 | #define LOGE(...) {__android_log_print(ANDROID_LOG_ERROR, TAG, _LOG_WRAP(__VA_ARGS__)); tgvoip_log_file_printf('E', __VA_ARGS__);}
+C/C++:       |                                                                          ^~~~~~~~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/logging.h:26:24: note: expanded from macro '_LOG_WRAP'
+C/C++:    26 | #define _LOG_WRAP(...) __VA_ARGS__
+C/C++:       |                        ^~~~~~~~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:2273:22: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:  2273 |                                 /*.data=*/Buffer(move(out)),
+C/C++:       |                                                  ^
+C/C++:       |                                                  std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:2505:22: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:  2505 |                                 /*.data=*/Buffer(move(pkt)),
+C/C++:       |                                                  ^
+C/C++:       |                                                  std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:2646:39: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:  2646 |                                         stm->codecSpecificData.push_back(move(csd));
+C/C++:       |                                                                          ^
+C/C++:       |                                                                          std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:2784:27: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:  2784 |                 sendQueue.push_back(move(pkt));
+C/C++:       |                                     ^
+C/C++:       |                                     std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:2845:25: warning: variable length arrays in C++ are a Clang extension [-Wvla-cxx-extension]
+C/C++:  2845 |                         unsigned char aesOut[MSC_STACK_FALLBACK(inner.GetLength(), 1500)];
+C/C++:       |                                              ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/PrivateDefines.h:119:34: note: expanded from macro 'MSC_STACK_FALLBACK'
+C/C++:   119 | #define MSC_STACK_FALLBACK(a, b) (a)
+C/C++:       |                                  ^~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:2845:50: note: non-constexpr function 'GetLength' cannot be used in a constant expression
+C/C++:  2845 |                         unsigned char aesOut[MSC_STACK_FALLBACK(inner.GetLength(), 1500)];
+C/C++:       |                                                                       ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/video/../Buffers.h:66:10: note: declared here
+C/C++:    66 |                 size_t GetLength();
+C/C++:       |                        ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:2864:25: warning: variable length arrays in C++ are a Clang extension [-Wvla-cxx-extension]
+C/C++:  2864 |                         unsigned char aesOut[MSC_STACK_FALLBACK(inner.GetLength(), 1500)];
+C/C++:       |                                              ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/PrivateDefines.h:119:34: note: expanded from macro 'MSC_STACK_FALLBACK'
+C/C++:   119 | #define MSC_STACK_FALLBACK(a, b) (a)
+C/C++:       |                                  ^~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:2864:50: note: non-constexpr function 'GetLength' cannot be used in a constant expression
+C/C++:  2864 |                         unsigned char aesOut[MSC_STACK_FALLBACK(inner.GetLength(), 1500)];
+C/C++:       |                                                                       ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/video/../Buffers.h:66:10: note: declared here
+C/C++:    66 |                 size_t GetLength();
+C/C++:       |                        ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:3147:12: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:  3147 |                 pkt.data=move(b);
+C/C++:       |                          ^
+C/C++:       |                          std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:3156:27: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:  3156 |                 queuedPackets.push_back(move(pkt));
+C/C++:       |                                         ^
+C/C++:       |                                         std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:3170:12: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:  3170 |                         x->data=move(data);
+C/C++:       |                                 ^
+C/C++:       |                                 std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:3174:36: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:  3174 |         UnacknowledgedExtraData xd={type, move(data), 0};
+C/C++:       |                                           ^
+C/C++:       |                                           std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:3175:26: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:  3175 |         currentExtras.push_back(move(xd));
+C/C++:       |                                 ^
+C/C++:       |                                 std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:3444:23: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:  3444 |                                         /*.data=*/Buffer(move(pkt)),
+C/C++:       |                                                          ^
+C/C++:       |                                                          std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:3448:24: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:  3448 |                         SendOrEnqueuePacket(move(p));
+C/C++:       |                                             ^
+C/C++:       |                                             std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:3470:13: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:  3470 |         Buffer buf(move(os));
+C/C++:       |                    ^
+C/C++:       |                    std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:3492:36: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:  3492 |                         videoRenderer->DecodeAndDisplay(move(frame), pts);
+C/C++:       |                                                         ^
+C/C++:       |                                                         std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:3796:18: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:  3796 |                                                 Buffer buf(move(s));
+C/C++:       |                                                            ^
+C/C++:       |                                                            std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:3875:17: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:  3875 |                                                 /*.data=*/move(buf),
+C/C++:       |                                                           ^
+C/C++:       |                                                           std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:3883:23: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:  3883 |                 SendOrEnqueuePacket(move(pkt));
+C/C++:       |                                     ^
+C/C++:       |                                     std::
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.cpp:14:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.h:24:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/video/VideoSource.h:12:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/video/../Buffers.h:19:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/video/../threading.h:110:8: warning: private field 'maxPriority' is not used [-Wunused-private-field]
+C/C++:   110 |                 bool maxPriority=false;
+C/C++:       |                      ^
+C/C++: 34 warnings generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/PacketReassembler.cpp:5:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/PacketReassembler.h:12:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/Buffers.h:19:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/threading.h:110:8: warning: private field 'maxPriority' is not used [-Wunused-private-field]
+C/C++:   110 |                 bool maxPriority=false;
+C/C++:       |                      ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/NetworkSocket.cpp:14:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/posix/NetworkSocketPosix.h:11:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/posix/../../Buffers.h:19:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/posix/../../threading.h:110:8: warning: private field 'maxPriority' is not used [-Wunused-private-field]
+C/C++:   110 |                 bool maxPriority=false;
+C/C++:       |                      ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/posix/NetworkSocketPosix.cpp:7:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/posix/NetworkSocketPosix.h:11:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/posix/../../Buffers.h:19:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/posix/../../threading.h:110:8: warning: private field 'maxPriority' is not used [-Wunused-private-field]
+C/C++:   110 |                 bool maxPriority=false;
+C/C++:       |                      ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/video/VideoRenderer.cpp:5:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/video/VideoRenderer.h:9:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/video/../Buffers.h:19:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/video/../threading.h:110:8: warning: private field 'maxPriority' is not used [-Wunused-private-field]
+C/C++:   110 |                 bool maxPriority=false;
+C/C++:       |                      ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/audio/AudioIO.cpp:19:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/audio/../os/android/AudioOutputAndroid.h:20:15: warning: 'Start' overrides a member function but is not marked 'override' [-Winconsistent-missing-override]
+C/C++:    20 |         virtual void Start();
+C/C++:       |                      ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/audio/../MediaStreamItf.h:24:15: note: overridden virtual function is here
+C/C++:    24 |         virtual void Start()=0;
+C/C++:       |                      ^
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/audio/AudioIO.cpp:19:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/audio/../os/android/AudioOutputAndroid.h:21:15: warning: 'Stop' overrides a member function but is not marked 'override' [-Winconsistent-missing-override]
+C/C++:    21 |         virtual void Stop();
+C/C++:       |                      ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/audio/../MediaStreamItf.h:25:15: note: overridden virtual function is here
+C/C++:    25 |         virtual void Stop()=0;
+C/C++:       |                      ^
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/audio/AudioIO.cpp:8:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/audio/AudioIO.h:11:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/audio/AudioInput.h:13:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/audio/../MediaStreamItf.h:14:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/audio/../threading.h:110:8: warning: private field 'maxPriority' is not used [-Wunused-private-field]
+C/C++:   110 |                 bool maxPriority=false;
+C/C++:       |                      ^
+C/C++: 3 warnings generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/MessageThread.cpp:15:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/MessageThread.h:8:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/threading.h:110:8: warning: private field 'maxPriority' is not used [-Wunused-private-field]
+C/C++:   110 |                 bool maxPriority=false;
+C/C++:       |                      ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/video/VideoSource.cpp:5:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/video/VideoSource.h:12:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/video/../Buffers.h:19:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/video/../threading.h:110:8: warning: private field 'maxPriority' is not used [-Wunused-private-field]
+C/C++:   110 |                 bool maxPriority=false;
+C/C++:       |                      ^
+C/C++: 1 warning generated.
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/json11.cpp:204:54: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:   204 |     explicit JsonString(string &&value)      : Value(move(value)) {}
+C/C++:       |                                                      ^
+C/C++:       |                                                      std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/json11.cpp:212:58: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:   212 |     explicit JsonArray(Json::array &&value)      : Value(move(value)) {}
+C/C++:       |                                                          ^
+C/C++:       |                                                          std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/json11.cpp:220:60: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:   220 |     explicit JsonObject(Json::object &&value)      : Value(move(value)) {}
+C/C++:       |                                                            ^
+C/C++:       |                                                            std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/json11.cpp:262:72: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:   262 | Json::Json(string &&value)             : m_ptr(make_shared<JsonString>(move(value))) {}
+C/C++:       |                                                                        ^
+C/C++:       |                                                                        std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/json11.cpp:265:71: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:   265 | Json::Json(Json::array &&values)       : m_ptr(make_shared<JsonArray>(move(values))) {}
+C/C++:       |                                                                       ^
+C/C++:       |                                                                       std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/json11.cpp:267:72: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:   267 | Json::Json(Json::object &&values)      : m_ptr(make_shared<JsonObject>(move(values))) {}
+C/C++:       |                                                                        ^
+C/C++:       |                                                                        std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/json11.cpp:365:21: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:   365 |         return fail(move(msg), Json());
+C/C++:       |                     ^
+C/C++:       |                     std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/json11.cpp:157:46: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:   157 |     explicit Value(T &&value)      : m_value(move(value)) {}
+C/C++:       |                                              ^
+C/C++:       |                                              std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/json11.cpp:204:48: note: in instantiation of member function 'json11::Value<json11::Json::STRING, std::string>::Value' requested here
+C/C++:   204 |     explicit JsonString(string &&value)      : Value(move(value)) {}
+C/C++:       |                                                ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/json11.cpp:157:46: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:   157 |     explicit Value(T &&value)      : m_value(move(value)) {}
+C/C++:       |                                              ^
+C/C++:       |                                              std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/json11.cpp:212:52: note: in instantiation of member function 'json11::Value<json11::Json::ARRAY, std::vector<json11::Json>>::Value' requested here
+C/C++:   212 |     explicit JsonArray(Json::array &&value)      : Value(move(value)) {}
+C/C++:       |                                                    ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/json11.cpp:157:46: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:   157 |     explicit Value(T &&value)      : m_value(move(value)) {}
+C/C++:       |                                              ^
+C/C++:       |                                              std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/json11.cpp:220:54: note: in instantiation of member function 'json11::Value<json11::Json::OBJECT, std::map<std::string, json11::Json>>::Value' requested here
+C/C++:   220 |     explicit JsonObject(Json::object &&value)      : Value(move(value)) {}
+C/C++:       |                                                      ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/json11.cpp:157:46: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:   157 |     explicit Value(T &&value)      : m_value(move(value)) {}
+C/C++:       |                                              ^
+C/C++:       |                                              std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/json11.cpp:225:18: note: in instantiation of member function 'json11::Value<json11::Json::NUL, json11::NullStruct>::Value' requested here
+C/C++:   225 |     JsonNull() : Value({}) {}
+C/C++:       |                  ^
+C/C++: 11 warnings generated.
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/video/ScreamCongestionController.cpp:23:29: warning: unused variable 'BETA_ECN' [-Wunused-const-variable]
+C/C++:    23 |         /*static*/ constexpr float BETA_ECN=0.9f;
+C/C++:       |                                    ^~~~~~~~
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/video/ScreamCongestionController.cpp:7:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/video/ScreamCongestionController.h:8:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/video/../Buffers.h:19:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/video/../threading.h:110:8: warning: private field 'maxPriority' is not used [-Wunused-private-field]
+C/C++:   110 |                 bool maxPriority=false;
+C/C++:       |                      ^
+C/C++: 2 warnings generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/VideoSourceAndroid.cpp:5:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/VideoSourceAndroid.h:8:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/../../video/VideoSource.h:12:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/../../video/../Buffers.h:19:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/../../video/../threading.h:110:8: warning: private field 'maxPriority' is not used [-Wunused-private-field]
+C/C++:   110 |                 bool maxPriority=false;
+C/C++:       |                      ^
+C/C++: 1 warning generated.
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/VideoRendererAndroid.cpp:87:19: warning: moving a temporary object prevents copy elision [-Wpessimizing-move]
+C/C++:    87 |                 Request request=std::move(queue.GetBlocking());
+C/C++:       |                                 ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/VideoRendererAndroid.cpp:87:19: note: remove std::move call here
+C/C++:    87 |                 Request request=std::move(queue.GetBlocking());
+C/C++:       |                                 ^~~~~~~~~~                   ~
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/VideoRendererAndroid.cpp:5:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/VideoRendererAndroid.h:8:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/../../video/VideoRenderer.h:9:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/../../video/../Buffers.h:19:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/../../video/../threading.h:110:8: warning: private field 'maxPriority' is not used [-Wunused-private-field]
+C/C++:   110 |                 bool maxPriority=false;
+C/C++:       |                      ^
+C/C++: 2 warnings generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/src/deblocking.cpp:41:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/deblocking.h:44:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/encoder_context.h:45:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/param_svc.h:493:26: warning: variable 'pSpatialLayer' set but not used [-Wunused-but-set-variable]
+C/C++:   493 |     SSpatialLayerConfig* pSpatialLayer = &sSpatialLayers[0];
+C/C++:       |                          ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/src/au_set.cpp:41:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/au_set.h:46:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/paraset_strategy.h:36:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/param_svc.h:493:26: warning: variable 'pSpatialLayer' set but not used [-Wunused-but-set-variable]
+C/C++:   493 |     SSpatialLayerConfig* pSpatialLayer = &sSpatialLayers[0];
+C/C++:       |                          ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/src/encoder_data_tables.cpp:35:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/md.h:43:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/svc_motion_estimate.h:44:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/encoder_context.h:45:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/param_svc.h:493:26: warning: variable 'pSpatialLayer' set but not used [-Wunused-but-set-variable]
+C/C++:   493 |     SSpatialLayerConfig* pSpatialLayer = &sSpatialLayers[0];
+C/C++:       |                          ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/tg_voip_jni.cpp:17:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/AudioOutputAndroid.h:20:15: warning: 'Start' overrides a member function but is not marked 'override' [-Winconsistent-missing-override]
+C/C++:    20 |         virtual void Start();
+C/C++:       |                      ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/audio/../MediaStreamItf.h:24:15: note: overridden virtual function is here
+C/C++:    24 |         virtual void Start()=0;
+C/C++:       |                      ^
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/tg_voip_jni.cpp:17:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/os/android/AudioOutputAndroid.h:21:15: warning: 'Stop' overrides a member function but is not marked 'override' [-Winconsistent-missing-override]
+C/C++:    21 |         virtual void Stop();
+C/C++:       |                      ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/audio/../MediaStreamItf.h:25:15: note: overridden virtual function is here
+C/C++:    25 |         virtual void Stop()=0;
+C/C++:       |                      ^
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/tg_voip_jni.cpp:22:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/../c_utils.h:9:9: warning: 'LOGI' macro redefined [-Wmacro-redefined]
+C/C++:     9 | #define LOGI(...) __android_log_print(ANDROID_LOG_INFO, LOG_TAG, __VA_ARGS__)
+C/C++:       |         ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/logging.h:30:9: note: previous definition is here
+C/C++:    30 | #define LOGI(...) {__android_log_print(ANDROID_LOG_INFO, TAG, _LOG_WRAP(__VA_ARGS__)); tgvoip_log_file_printf('I', __VA_ARGS__);}
+C/C++:       |         ^
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/tg_voip_jni.cpp:22:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/../c_utils.h:10:9: warning: 'LOGD' macro redefined [-Wmacro-redefined]
+C/C++:    10 | #define LOGD(...) __android_log_print(ANDROID_LOG_DEBUG, LOG_TAG, __VA_ARGS__)
+C/C++:       |         ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/logging.h:29:9: note: previous definition is here
+C/C++:    29 | #define LOGD(...) {__android_log_print(ANDROID_LOG_DEBUG, TAG, _LOG_WRAP(__VA_ARGS__)); tgvoip_log_file_printf('D', __VA_ARGS__);}
+C/C++:       |         ^
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/tg_voip_jni.cpp:22:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/../c_utils.h:11:9: warning: 'LOGE' macro redefined [-Wmacro-redefined]
+C/C++:    11 | #define LOGE(...) __android_log_print(ANDROID_LOG_ERROR, LOG_TAG, __VA_ARGS__)
+C/C++:       |         ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/logging.h:32:9: note: previous definition is here
+C/C++:    32 | #define LOGE(...) {__android_log_print(ANDROID_LOG_ERROR, TAG, _LOG_WRAP(__VA_ARGS__)); tgvoip_log_file_printf('E', __VA_ARGS__);}
+C/C++:       |         ^
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/tg_voip_jni.cpp:22:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/../c_utils.h:12:9: warning: 'LOGV' macro redefined [-Wmacro-redefined]
+C/C++:    12 | #define LOGV(...) __android_log_print(ANDROID_LOG_VERBOSE, LOG_TAG, __VA_ARGS__)
+C/C++:       |         ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/logging.h:28:9: note: previous definition is here
+C/C++:    28 | #define LOGV(...) {__android_log_print(ANDROID_LOG_VERBOSE, TAG, _LOG_WRAP(__VA_ARGS__)); tgvoip_log_file_printf('V', __VA_ARGS__);}
+C/C++:       |         ^
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/tg_voip_jni.cpp:12:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPServerConfig.h:13:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/threading.h:110:8: warning: private field 'maxPriority' is not used [-Wunused-private-field]
+C/C++:   110 |                 bool maxPriority=false;
+C/C++:       |                      ^
+C/C++: 7 warnings generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/src/encoder.cpp:40:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/encoder.h:43:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/encoder_context.h:45:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/param_svc.h:493:26: warning: variable 'pSpatialLayer' set but not used [-Wunused-but-set-variable]
+C/C++:   493 |     SSpatialLayerConfig* pSpatialLayer = &sSpatialLayers[0];
+C/C++:       |                          ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/src/md.cpp:42:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/md.h:43:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/svc_motion_estimate.h:44:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/encoder_context.h:45:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/param_svc.h:493:26: warning: variable 'pSpatialLayer' set but not used [-Wunused-but-set-variable]
+C/C++:   493 |     SSpatialLayerConfig* pSpatialLayer = &sSpatialLayers[0];
+C/C++:       |                          ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/src/picture_handle.cpp:40:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/svc_motion_estimate.h:44:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/encoder_context.h:45:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/param_svc.h:493:26: warning: variable 'pSpatialLayer' set but not used [-Wunused-but-set-variable]
+C/C++:   493 |     SSpatialLayerConfig* pSpatialLayer = &sSpatialLayers[0];
+C/C++:       |                          ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/src/paraset_strategy.cpp:33:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/au_set.h:46:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/paraset_strategy.h:36:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/param_svc.h:493:26: warning: variable 'pSpatialLayer' set but not used [-Wunused-but-set-variable]
+C/C++:   493 |     SSpatialLayerConfig* pSpatialLayer = &sSpatialLayers[0];
+C/C++:       |                          ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/src/encoder_ext.cpp:41:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/encoder.h:43:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/encoder_context.h:45:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/param_svc.h:493:26: warning: variable 'pSpatialLayer' set but not used [-Wunused-but-set-variable]
+C/C++:   493 |     SSpatialLayerConfig* pSpatialLayer = &sSpatialLayers[0];
+C/C++:       |                          ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/src/ratectl.cpp:45:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/encoder_context.h:45:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/param_svc.h:493:26: warning: variable 'pSpatialLayer' set but not used [-Wunused-but-set-variable]
+C/C++:   493 |     SSpatialLayerConfig* pSpatialLayer = &sSpatialLayers[0];
+C/C++:       |                          ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/src/ratectl.cpp:494:13: warning: variable 'iDeltaQpTemporal' set but not used [-Wunused-but-set-variable]
+C/C++:   494 |     int32_t iDeltaQpTemporal = iTl - iTlLast;
+C/C++:       |             ^
+C/C++: 2 warnings generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/src/ref_list_mgr_svc.cpp:34:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/ref_list_mgr_svc.h:46:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/encoder_context.h:45:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/param_svc.h:493:26: warning: variable 'pSpatialLayer' set but not used [-Wunused-but-set-variable]
+C/C++:   493 |     SSpatialLayerConfig* pSpatialLayer = &sSpatialLayers[0];
+C/C++:       |                          ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/src/set_mb_syn_cavlc.cpp:41:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/svc_set_mb_syn.h:46:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/encoder_context.h:45:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/param_svc.h:493:26: warning: variable 'pSpatialLayer' set but not used [-Wunused-but-set-variable]
+C/C++:   493 |     SSpatialLayerConfig* pSpatialLayer = &sSpatialLayers[0];
+C/C++:       |                          ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/src/set_mb_syn_cabac.cpp:44:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/encoder.h:43:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/encoder_context.h:45:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/param_svc.h:493:26: warning: variable 'pSpatialLayer' set but not used [-Wunused-but-set-variable]
+C/C++:   493 |     SSpatialLayerConfig* pSpatialLayer = &sSpatialLayers[0];
+C/C++:       |                          ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/src/slice_multi_threading.cpp:51:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/slice_multi_threading.h:46:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/param_svc.h:493:26: warning: variable 'pSpatialLayer' set but not used [-Wunused-but-set-variable]
+C/C++:   493 |     SSpatialLayerConfig* pSpatialLayer = &sSpatialLayers[0];
+C/C++:       |                          ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/src/svc_encode_mb.cpp:41:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/svc_encode_mb.h:47:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/encoder_context.h:45:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/param_svc.h:493:26: warning: variable 'pSpatialLayer' set but not used [-Wunused-but-set-variable]
+C/C++:   493 |     SSpatialLayerConfig* pSpatialLayer = &sSpatialLayers[0];
+C/C++:       |                          ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/src/svc_encode_mb.cpp:195:17: warning: variable 'iNoneZeroCountMbDcAc' set but not used [-Wunused-but-set-variable]
+C/C++:   195 |   int32_t i, j, iNoneZeroCountMbDcAc = 0, iNoneZeroCount = 0;
+C/C++:       |                 ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/src/svc_encode_mb.cpp:257:31: warning: variable 'uiNoneZeroCountMbAc' set but not used [-Wunused-but-set-variable]
+C/C++:   257 |   uint8_t i, uiNoneZeroCount, uiNoneZeroCountMbAc       = 0, uiNoneZeroCountMbDc = 0;
+C/C++:       |                               ^
+C/C++: 3 warnings generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/src/svc_base_layer_md.cpp:43:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/svc_base_layer_md.h:43:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/md.h:43:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/svc_motion_estimate.h:44:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/encoder_context.h:45:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/param_svc.h:493:26: warning: variable 'pSpatialLayer' set but not used [-Wunused-but-set-variable]
+C/C++:   493 |     SSpatialLayerConfig* pSpatialLayer = &sSpatialLayers[0];
+C/C++:       |                          ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/src/svc_mode_decision.cpp:45:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/svc_base_layer_md.h:43:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/md.h:43:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/svc_motion_estimate.h:44:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/encoder_context.h:45:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/param_svc.h:493:26: warning: variable 'pSpatialLayer' set but not used [-Wunused-but-set-variable]
+C/C++:   493 |     SSpatialLayerConfig* pSpatialLayer = &sSpatialLayers[0];
+C/C++:       |                          ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/src/svc_encode_slice.cpp:42:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/svc_encode_slice.h:43:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/encoder_context.h:45:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/param_svc.h:493:26: warning: variable 'pSpatialLayer' set but not used [-Wunused-but-set-variable]
+C/C++:   493 |     SSpatialLayerConfig* pSpatialLayer = &sSpatialLayers[0];
+C/C++:       |                          ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/src/svc_motion_estimate.cpp:43:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/svc_motion_estimate.h:44:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/encoder_context.h:45:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/param_svc.h:493:26: warning: variable 'pSpatialLayer' set but not used [-Wunused-but-set-variable]
+C/C++:   493 |     SSpatialLayerConfig* pSpatialLayer = &sSpatialLayers[0];
+C/C++:       |                          ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/src/svc_set_mb_syn_cabac.cpp:40:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/svc_set_mb_syn.h:46:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/encoder_context.h:45:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/param_svc.h:493:26: warning: variable 'pSpatialLayer' set but not used [-Wunused-but-set-variable]
+C/C++:   493 |     SSpatialLayerConfig* pSpatialLayer = &sSpatialLayers[0];
+C/C++:       |                          ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/src/svc_set_mb_syn_cavlc.cpp:43:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/svc_set_mb_syn.h:46:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/encoder_context.h:45:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/param_svc.h:493:26: warning: variable 'pSpatialLayer' set but not used [-Wunused-but-set-variable]
+C/C++:   493 |     SSpatialLayerConfig* pSpatialLayer = &sSpatialLayers[0];
+C/C++:       |                          ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/src/wels_task_encoder.cpp:50:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/wels_task_encoder.h:45:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/encoder_context.h:45:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/param_svc.h:493:26: warning: variable 'pSpatialLayer' set but not used [-Wunused-but-set-variable]
+C/C++:   493 |     SSpatialLayerConfig* pSpatialLayer = &sSpatialLayers[0];
+C/C++:       |                          ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/src/wels_preprocess.cpp:33:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/wels_preprocess.h:51:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/param_svc.h:493:26: warning: variable 'pSpatialLayer' set but not used [-Wunused-but-set-variable]
+C/C++:   493 |     SSpatialLayerConfig* pSpatialLayer = &sSpatialLayers[0];
+C/C++:       |                          ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/src/wels_task_management.cpp:49:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/encoder_context.h:45:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/param_svc.h:493:26: warning: variable 'pSpatialLayer' set but not used [-Wunused-but-set-variable]
+C/C++:   493 |     SSpatialLayerConfig* pSpatialLayer = &sSpatialLayers[0];
+C/C++:       |                          ^
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/plus/src/welsEncoderExt.cpp:34:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/plus/inc/welsEncoderExt.h:48:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/encoder_context.h:45:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/third_party/openh264/src/codec/encoder/core/inc/param_svc.h:493:26: warning: variable 'pSpatialLayer' set but not used [-Wunused-but-set-variable]
+C/C++:   493 |     SSpatialLayerConfig* pSpatialLayer = &sSpatialLayers[0];
+C/C++:       |                          ^
+C/C++: 1 warning generated.
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/tgcalls/VideoCaptureInterfaceImpl.cpp:168:1: warning: field '_platformContext' will be initialized after field '_impl' [-Wreorder-ctor]
+C/C++:   168 | _platformContext(platformContext),
+C/C++:       | ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C/C++:   169 | _impl(threads->getMediaThread(), [deviceId, isScreenCapture, platformContext, threads]() {
+C/C++:       | ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C/C++:       | _platformContext(platformContext)
+C/C++:   170 |         return std::make_shared<VideoCaptureInterfaceObject>(deviceId, isScreenCapture, platformContext, *threads);
+C/C++:       |         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C/C++:   171 | }) {
+C/C++:       | ~~
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/tgcalls/legacy/InstanceImplLegacy.cpp:1:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/tgcalls/legacy/InstanceImplLegacy.h:6:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.h:24:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/video/VideoSource.h:12:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/video/../Buffers.h:19:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/video/../threading.h:110:8: warning: private field 'maxPriority' is not used [-Wunused-private-field]
+C/C++:   110 |                 bool maxPriority=false;
+C/C++:       |                      ^
+C/C++: 1 warning generated.
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/tgcalls/v2/ikcp.cpp:40:15: warning: unused variable 'IKCP_ACK_FAST' [-Wunused-const-variable]
+C/C++:    40 | const IUINT32 IKCP_ACK_FAST     = 3;
+C/C++:       |               ^~~~~~~~~~~~~
+C/C++: 1 warning generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/tgcalls/v2/InstanceV2ReferenceImpl.cpp:1:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/tgcalls/v2/InstanceV2ReferenceImpl.h:4:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/tgcalls/Instance.h:4:
+C/C++: In file included from /home/user/tools/android-sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/c++/v1/functional:526:
+C/C++: In file included from /home/user/tools/android-sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/c++/v1/__functional/boyer_moore_searcher.h:22:
+C/C++: In file included from /home/user/tools/android-sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/c++/v1/__memory/shared_ptr.h:33:
+C/C++: /home/user/tools/android-sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/c++/v1/__memory/unique_ptr.h:601:30: warning: 'RtcEventLogFactory' is deprecated: Use default constructor [-Wdeprecated-declarations]
+C/C++:   601 |   return unique_ptr<_Tp>(new _Tp(std::forward<_Args>(__args)...));
+C/C++:       |                              ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/tgcalls/v2/InstanceV2ReferenceImpl.cpp:476:68: note: in instantiation of function template specialization 'std::make_unique<webrtc::RtcEventLogFactory, webrtc::TaskQueueFactory *>' requested here
+C/C++:   476 |         peerConnectionFactoryDependencies.event_log_factory = std::make_unique<webrtc::RtcEventLogFactory>(peerConnectionFactoryDependencies.task_queue_factory.get());
+C/C++:       |                                                                    ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/api/rtc_event_log/rtc_event_log_factory.h:29:5: note: 'RtcEventLogFactory' has been explicitly marked deprecated here
+C/C++:    29 |   [[deprecated("Use default constructor")]]  //
+C/C++:       |     ^
+C/C++: 1 warning generated.
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/tgcalls/third-party/json11.cpp:201:54: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:   201 |     explicit JsonString(string &&value)      : Value(move(value)) {}
+C/C++:       |                                                      ^
+C/C++:       |                                                      std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/tgcalls/third-party/json11.cpp:209:58: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:   209 |     explicit JsonArray(Json::array &&value)      : Value(move(value)) {}
+C/C++:       |                                                          ^
+C/C++:       |                                                          std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/tgcalls/third-party/json11.cpp:217:60: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:   217 |     explicit JsonObject(Json::object &&value)      : Value(move(value)) {}
+C/C++:       |                                                            ^
+C/C++:       |                                                            std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/tgcalls/third-party/json11.cpp:259:72: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:   259 | Json::Json(string &&value)             : m_ptr(make_shared<JsonString>(move(value))) {}
+C/C++:       |                                                                        ^
+C/C++:       |                                                                        std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/tgcalls/third-party/json11.cpp:262:71: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:   262 | Json::Json(Json::array &&values)       : m_ptr(make_shared<JsonArray>(move(values))) {}
+C/C++:       |                                                                       ^
+C/C++:       |                                                                       std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/tgcalls/third-party/json11.cpp:264:72: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:   264 | Json::Json(Json::object &&values)      : m_ptr(make_shared<JsonObject>(move(values))) {}
+C/C++:       |                                                                        ^
+C/C++:       |                                                                        std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/tgcalls/third-party/json11.cpp:362:21: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:   362 |         return fail(move(msg), Json());
+C/C++:       |                     ^
+C/C++:       |                     std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/tgcalls/third-party/json11.cpp:154:46: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:   154 |     explicit Value(T &&value)      : m_value(move(value)) {}
+C/C++:       |                                              ^
+C/C++:       |                                              std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/tgcalls/third-party/json11.cpp:201:48: note: in instantiation of member function 'json11::Value<json11::Json::STRING, std::string>::Value' requested here
+C/C++:   201 |     explicit JsonString(string &&value)      : Value(move(value)) {}
+C/C++:       |                                                ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/tgcalls/third-party/json11.cpp:154:46: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:   154 |     explicit Value(T &&value)      : m_value(move(value)) {}
+C/C++:       |                                              ^
+C/C++:       |                                              std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/tgcalls/third-party/json11.cpp:209:52: note: in instantiation of member function 'json11::Value<json11::Json::ARRAY, std::vector<json11::Json>>::Value' requested here
+C/C++:   209 |     explicit JsonArray(Json::array &&value)      : Value(move(value)) {}
+C/C++:       |                                                    ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/tgcalls/third-party/json11.cpp:154:46: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:   154 |     explicit Value(T &&value)      : m_value(move(value)) {}
+C/C++:       |                                              ^
+C/C++:       |                                              std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/tgcalls/third-party/json11.cpp:217:54: note: in instantiation of member function 'json11::Value<json11::Json::OBJECT, std::map<std::string, json11::Json>>::Value' requested here
+C/C++:   217 |     explicit JsonObject(Json::object &&value)      : Value(move(value)) {}
+C/C++:       |                                                      ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/tgcalls/third-party/json11.cpp:154:46: warning: unqualified call to 'std::move' [-Wunqualified-std-cast-call]
+C/C++:   154 |     explicit Value(T &&value)      : m_value(move(value)) {}
+C/C++:       |                                              ^
+C/C++:       |                                              std::
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/tgcalls/third-party/json11.cpp:222:18: note: in instantiation of member function 'json11::Value<json11::Json::NUL, json11::NullStruct>::Value' requested here
+C/C++:   222 |     JsonNull() : Value({}) {}
+C/C++:       |                  ^
+C/C++: 11 warnings generated.
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/modules/utility/source/jvm_android.cc:82:10: warning: unused variable 'ret' [-Wunused-variable]
+C/C++:    82 |     jint ret = jvm->AttachCurrentThread(&env, nullptr);
+C/C++:       |          ^~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/modules/utility/source/jvm_android.cc:78:11: warning: unused variable 'jni' [-Wunused-variable]
+C/C++:    78 |   JNIEnv* jni = GetEnv(jvm);
+C/C++:       |           ^~~
+C/C++: 2 warnings generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/call/call.cc:72:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/video/video_receive_stream2.h:38:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/video/rtp_video_stream_receiver2.h:393:7: warning: declaration does not declare anything [-Wmissing-declarations]
+C/C++:   393 |       RTC_GUARDED_BY(packet_sequence_checker_);
+C/C++:       |       ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/rtc_base/thread_annotations.h:31:27: note: expanded from macro 'RTC_GUARDED_BY'
+C/C++:    31 | #define RTC_GUARDED_BY(x) RTC_THREAD_ANNOTATION_ATTRIBUTE__(guarded_by(x))
+C/C++:       |                           ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/rtc_base/thread_annotations.h:23:46: note: expanded from macro 'RTC_THREAD_ANNOTATION_ATTRIBUTE__'
+C/C++:    23 | #define RTC_THREAD_ANNOTATION_ATTRIBUTE__(x) __attribute__((x))
+C/C++:       |                                              ^
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/call/call.cc:72:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/video/video_receive_stream2.h:38:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/video/rtp_video_stream_receiver2.h:393:7: warning: attribute guarded_by ignored, because it is not attached to a declaration [-Wignored-attributes]
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/rtc_base/thread_annotations.h:31:71: note: expanded from macro 'RTC_GUARDED_BY'
+C/C++:    31 | #define RTC_GUARDED_BY(x) RTC_THREAD_ANNOTATION_ATTRIBUTE__(guarded_by(x))
+C/C++:       |                                                                       ^
+C/C++: 2 warnings generated.
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/video/video_source_sink_controller.cc:40:55: warning: format specifies type 'long' but the argument has type 'rtc::VideoSourceInterface<VideoFrame> *' [-Wformat]
+C/C++:    40 |     DEBUG_D("$%d: SetSource(): new source as %ld", a, source_);
+C/C++:       |                                              ~~~      ^~~~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/video/video_source_sink_controller.cc:67:60: warning: format specifies type 'long' but the argument has type 'rtc::VideoSourceInterface<VideoFrame> *' [-Wformat]
+C/C++:    67 |     DEBUG_D("$%d: PushSourceSinkSettings(): 2 src=%ld", a, source_);
+C/C++:       |                                                   ~~~      ^~~~~~~
+C/C++: 2 warnings generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/video/video_quality_observer2.cc:21:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/video/video_receive_stream2.h:38:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/video/rtp_video_stream_receiver2.h:393:7: warning: declaration does not declare anything [-Wmissing-declarations]
+C/C++:   393 |       RTC_GUARDED_BY(packet_sequence_checker_);
+C/C++:       |       ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/rtc_base/thread_annotations.h:31:27: note: expanded from macro 'RTC_GUARDED_BY'
+C/C++:    31 | #define RTC_GUARDED_BY(x) RTC_THREAD_ANNOTATION_ATTRIBUTE__(guarded_by(x))
+C/C++:       |                           ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/rtc_base/thread_annotations.h:23:46: note: expanded from macro 'RTC_THREAD_ANNOTATION_ATTRIBUTE__'
+C/C++:    23 | #define RTC_THREAD_ANNOTATION_ATTRIBUTE__(x) __attribute__((x))
+C/C++:       |                                              ^
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/video/video_quality_observer2.cc:21:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/video/video_receive_stream2.h:38:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/video/rtp_video_stream_receiver2.h:393:7: warning: attribute guarded_by ignored, because it is not attached to a declaration [-Wignored-attributes]
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/rtc_base/thread_annotations.h:31:71: note: expanded from macro 'RTC_GUARDED_BY'
+C/C++:    31 | #define RTC_GUARDED_BY(x) RTC_THREAD_ANNOTATION_ATTRIBUTE__(guarded_by(x))
+C/C++:       |                                                                       ^
+C/C++: 2 warnings generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/video/receive_statistics_proxy.cc:25:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/video/video_receive_stream2.h:38:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/video/rtp_video_stream_receiver2.h:393:7: warning: declaration does not declare anything [-Wmissing-declarations]
+C/C++:   393 |       RTC_GUARDED_BY(packet_sequence_checker_);
+C/C++:       |       ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/rtc_base/thread_annotations.h:31:27: note: expanded from macro 'RTC_GUARDED_BY'
+C/C++:    31 | #define RTC_GUARDED_BY(x) RTC_THREAD_ANNOTATION_ATTRIBUTE__(guarded_by(x))
+C/C++:       |                           ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/rtc_base/thread_annotations.h:23:46: note: expanded from macro 'RTC_THREAD_ANNOTATION_ATTRIBUTE__'
+C/C++:    23 | #define RTC_THREAD_ANNOTATION_ATTRIBUTE__(x) __attribute__((x))
+C/C++:       |                                              ^
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/video/receive_statistics_proxy.cc:25:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/video/video_receive_stream2.h:38:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/video/rtp_video_stream_receiver2.h:393:7: warning: attribute guarded_by ignored, because it is not attached to a declaration [-Wignored-attributes]
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/rtc_base/thread_annotations.h:31:71: note: expanded from macro 'RTC_GUARDED_BY'
+C/C++:    31 | #define RTC_GUARDED_BY(x) RTC_THREAD_ANNOTATION_ATTRIBUTE__(guarded_by(x))
+C/C++:       |                                                                       ^
+C/C++: 2 warnings generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/video/video_receive_stream2.cc:11:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/video/video_receive_stream2.h:38:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/video/rtp_video_stream_receiver2.h:393:7: warning: declaration does not declare anything [-Wmissing-declarations]
+C/C++:   393 |       RTC_GUARDED_BY(packet_sequence_checker_);
+C/C++:       |       ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/rtc_base/thread_annotations.h:31:27: note: expanded from macro 'RTC_GUARDED_BY'
+C/C++:    31 | #define RTC_GUARDED_BY(x) RTC_THREAD_ANNOTATION_ATTRIBUTE__(guarded_by(x))
+C/C++:       |                           ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/rtc_base/thread_annotations.h:23:46: note: expanded from macro 'RTC_THREAD_ANNOTATION_ATTRIBUTE__'
+C/C++:    23 | #define RTC_THREAD_ANNOTATION_ATTRIBUTE__(x) __attribute__((x))
+C/C++:       |                                              ^
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/video/video_receive_stream2.cc:11:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/video/video_receive_stream2.h:38:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/video/rtp_video_stream_receiver2.h:393:7: warning: attribute guarded_by ignored, because it is not attached to a declaration [-Wignored-attributes]
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/rtc_base/thread_annotations.h:31:71: note: expanded from macro 'RTC_GUARDED_BY'
+C/C++:    31 | #define RTC_GUARDED_BY(x) RTC_THREAD_ANNOTATION_ATTRIBUTE__(guarded_by(x))
+C/C++:       |                                                                       ^
+C/C++: 2 warnings generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/video/rtp_video_stream_receiver2.cc:11:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/video/rtp_video_stream_receiver2.h:393:7: warning: declaration does not declare anything [-Wmissing-declarations]
+C/C++:   393 |       RTC_GUARDED_BY(packet_sequence_checker_);
+C/C++:       |       ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/rtc_base/thread_annotations.h:31:27: note: expanded from macro 'RTC_GUARDED_BY'
+C/C++:    31 | #define RTC_GUARDED_BY(x) RTC_THREAD_ANNOTATION_ATTRIBUTE__(guarded_by(x))
+C/C++:       |                           ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/rtc_base/thread_annotations.h:23:46: note: expanded from macro 'RTC_THREAD_ANNOTATION_ATTRIBUTE__'
+C/C++:    23 | #define RTC_THREAD_ANNOTATION_ATTRIBUTE__(x) __attribute__((x))
+C/C++:       |                                              ^
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/video/rtp_video_stream_receiver2.cc:11:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/video/rtp_video_stream_receiver2.h:393:7: warning: attribute guarded_by ignored, because it is not attached to a declaration [-Wignored-attributes]
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/webrtc/rtc_base/thread_annotations.h:31:71: note: expanded from macro 'RTC_GUARDED_BY'
+C/C++:    31 | #define RTC_GUARDED_BY(x) RTC_THREAD_ANNOTATION_ATTRIBUTE__(guarded_by(x))
+C/C++:       |                                                                       ^
+C/C++: 2 warnings generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/image.cpp:14:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/./tgnet/FileLog.h:12:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/./tgnet/Defines.h:142:16: warning: 'ConnectiosManagerDelegate' has virtual functions but non-virtual destructor [-Wnon-virtual-dtor]
+C/C++:   142 | typedef struct ConnectiosManagerDelegate {
+C/C++:       |                ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/./tgnet/Defines.h:161:16: warning: 'HandshakeDelegate' has virtual functions but non-virtual destructor [-Wnon-virtual-dtor]
+C/C++:   161 | typedef struct HandshakeDelegate {
+C/C++:       |                ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/image.cpp:695:15: warning: variable length arrays in C++ are a Clang extension [-Wvla-cxx-extension]
+C/C++:   695 |     int stack[div * 4];
+C/C++:       |               ^~~~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/image.cpp:695:15: note: initializer of 'div' is not a constant expression
+C/C++: /home/user/telegram-official/TMessagesProj/jni/image.cpp:690:15: note: declared here
+C/C++:   690 |     const int div = radius + radius + 1;
+C/C++:       |               ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/image.cpp:698:14: warning: variable length arrays in C++ are a Clang extension [-Wvla-cxx-extension]
+C/C++:   698 |     int vmin[MAX(w, h)];
+C/C++:       |              ^~~~~~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/c_utils.h:21:19: note: expanded from macro 'MAX'
+C/C++:    21 | #define MAX(x, y) ((x) > (y)) ? (x) : (y)
+C/C++:       |                   ^~~~~~~~~~~~~~~~~~~~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/image.cpp:698:14: note: read of non-const variable 'w' is not allowed in a constant expression
+C/C++: /home/user/telegram-official/TMessagesProj/jni/c_utils.h:21:20: note: expanded from macro 'MAX'
+C/C++:    21 | #define MAX(x, y) ((x) > (y)) ? (x) : (y)
+C/C++:       |                    ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/image.cpp:676:9: note: declared here
+C/C++:   676 |     int w = info.width;
+C/C++:       |         ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/image.cpp:728:9: warning: variable 'yw' set but not used [-Wunused-but-set-variable]
+C/C++:   728 |     int yw = 0, yi = 0;
+C/C++:       |         ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/image.cpp:922:95: warning: adding 'int' to a string does not append to the string [-Wstring-plus-int]
+C/C++:   922 |         env->ThrowNew(jclass_RuntimeException, "AndroidBitmap_getInfo failed with a reason: " + reason);
+C/C++:       |                                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/image.cpp:922:95: note: use array indexing to silence this warning
+C/C++:   922 |         env->ThrowNew(jclass_RuntimeException, "AndroidBitmap_getInfo failed with a reason: " + reason);
+C/C++:       |                                                                                               ^       
+C/C++:       |                                                &                                              [       ]
+C/C++: /home/user/telegram-official/TMessagesProj/jni/image.cpp:932:98: warning: adding 'int' to a string does not append to the string [-Wstring-plus-int]
+C/C++:   932 |         env->ThrowNew(jclass_RuntimeException, "AndroidBitmap_lockPixels failed with a reason: " + reason);
+C/C++:       |                                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/image.cpp:932:98: note: use array indexing to silence this warning
+C/C++:   932 |         env->ThrowNew(jclass_RuntimeException, "AndroidBitmap_lockPixels failed with a reason: " + reason);
+C/C++:       |                                                                                                  ^       
+C/C++:       |                                                &                                                 [       ]
+C/C++: /home/user/telegram-official/TMessagesProj/jni/image.cpp:1014:100: warning: adding 'int' to a string does not append to the string [-Wstring-plus-int]
+C/C++:  1014 |         env->ThrowNew(jclass_RuntimeException, "AndroidBitmap_unlockPixels failed with a reason: " + reason);
+C/C++:       |                                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/image.cpp:1014:100: note: use array indexing to silence this warning
+C/C++:  1014 |         env->ThrowNew(jclass_RuntimeException, "AndroidBitmap_unlockPixels failed with a reason: " + reason);
+C/C++:       |                                                                                                    ^       
+C/C++:       |                                                &                                                   [       ]
+C/C++: /home/user/telegram-official/TMessagesProj/jni/image.cpp:969:49: warning: implicit conversion from 'int' to 'float' changes value from 2147483647 to 2147483648 [-Wimplicit-const-int-float-conversion]
+C/C++:   969 |             noise = (rand() - rand()) / 255.F / RAND_MAX;
+C/C++:       |                                               ~ ^~~~~~~~
+C/C++: /home/user/tools/android-sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/stdlib.h:132:18: note: expanded from macro 'RAND_MAX'
+C/C++:   132 | #define RAND_MAX 0x7fffffff
+C/C++:       |                  ^~~~~~~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/image.cpp:1123:38: warning: 'gatherPositions' has C-linkage specified, but returns incomplete type 'std::vector<std::pair<float, float>>' which could be incompatible with C [-Wreturn-type-c-linkage]
+C/C++:  1123 | std::vector<std::pair<float, float>> gatherPositions(std::vector<std::pair<float, float>> list, int phase) {
+C/C++:       |                                      ^
+C/C++: 10 warnings generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/gifvideo.cpp:11:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/./tgnet/FileLog.h:12:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/./tgnet/Defines.h:142:16: warning: 'ConnectiosManagerDelegate' has virtual functions but non-virtual destructor [-Wnon-virtual-dtor]
+C/C++:   142 | typedef struct ConnectiosManagerDelegate {
+C/C++:       |                ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/./tgnet/Defines.h:161:16: warning: 'HandshakeDelegate' has virtual functions but non-virtual destructor [-Wnon-virtual-dtor]
+C/C++:   161 | typedef struct HandshakeDelegate {
+C/C++:       |                ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/gifvideo.cpp:48:1: warning: typedef requires a name [-Wmissing-declarations]
+C/C++:    48 | typedef struct VideoInfo {
+C/C++:       | ^~~~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/gifvideo.cpp:143:10: warning: format string is not a string literal (potentially insecure) [-Wformat-security]
+C/C++:   143 |     LOGE(line);
+C/C++:       |          ^~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/c_utils.h:11:67: note: expanded from macro 'LOGE'
+C/C++:    11 | #define LOGE(...) __android_log_print(ANDROID_LOG_ERROR, LOG_TAG, __VA_ARGS__)
+C/C++:       |                                                                   ^~~~~~~~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/gifvideo.cpp:143:10: note: treat the string as an argument to avoid this
+C/C++:   143 |     LOGE(line);
+C/C++:       |          ^
+C/C++:       |          "%s", 
+C/C++: /home/user/telegram-official/TMessagesProj/jni/c_utils.h:11:67: note: expanded from macro 'LOGE'
+C/C++:    11 | #define LOGE(...) __android_log_print(ANDROID_LOG_ERROR, LOG_TAG, __VA_ARGS__)
+C/C++:       |                                                                   ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/gifvideo.cpp:152:37: warning: format specifies type 'int' but the argument has type 'const enum AVPixelFormat *' [-Wformat]
+C/C++:   152 |         LOGE("available format %d", p);
+C/C++:       |                                ~~   ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/c_utils.h:11:67: note: expanded from macro 'LOGE'
+C/C++:    11 | #define LOGE(...) __android_log_print(ANDROID_LOG_ERROR, LOG_TAG, __VA_ARGS__)
+C/C++:       |                                                                   ^~~~~~~~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/gifvideo.cpp:390:86: warning: format specifies type 'long long' but the argument has type 'jlong' (aka 'long') [-Wformat]
+C/C++:   390 |             LOGE("can't open source file at offset %s (offset=%lld), %s", info->src, fileOffset, av_err2str(ret));
+C/C++:       |                                                               ~~~~                   ^~~~~~~~~~
+C/C++:       |                                                               %ld
+C/C++: /home/user/telegram-official/TMessagesProj/jni/c_utils.h:11:67: note: expanded from macro 'LOGE'
+C/C++:    11 | #define LOGE(...) __android_log_print(ANDROID_LOG_ERROR, LOG_TAG, __VA_ARGS__)
+C/C++:       |                                                                   ^~~~~~~~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/gifvideo.cpp:566:5: warning: 'av_init_packet' is deprecated [-Wdeprecated-declarations]
+C/C++:   566 |     av_init_packet(&info->pkt);
+C/C++:       |     ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/ffmpeg/include/libavcodec/packet.h:487:1: note: 'av_init_packet' has been explicitly marked deprecated here
+C/C++:   487 | attribute_deprecated
+C/C++:       | ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/ffmpeg/include/libavutil/attributes.h:100:49: note: expanded from macro 'attribute_deprecated'
+C/C++:   100 | #    define attribute_deprecated __attribute__((deprecated))
+C/C++:       |                                                 ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/gifvideo.cpp:601:43: warning: 'codec' is deprecated [-Wdeprecated-declarations]
+C/C++:   601 |                 int ticks = video_stream->codec->ticks_per_frame;
+C/C++:       |                                           ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/ffmpeg/include/libavformat/avformat.h:887:5: note: 'codec' has been explicitly marked deprecated here
+C/C++:   887 |     attribute_deprecated
+C/C++:       |     ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/ffmpeg/include/libavutil/attributes.h:100:49: note: expanded from macro 'attribute_deprecated'
+C/C++:   100 | #    define attribute_deprecated __attribute__((deprecated))
+C/C++:       |                                                 ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/gifvideo.cpp:616:13: warning: comparison between NULL and non-pointer ('jlong' (aka 'long') and NULL) [-Wnull-arithmetic]
+C/C++:   616 |     if (ptr == NULL) {
+C/C++:       |         ~~~ ^  ~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/gifvideo.cpp:641:13: warning: comparison between NULL and non-pointer ('jlong' (aka 'long') and NULL) [-Wnull-arithmetic]
+C/C++:   641 |     if (ptr == NULL) {
+C/C++:       |         ~~~ ^  ~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/gifvideo.cpp:649:13: warning: comparison between NULL and non-pointer ('jlong' (aka 'long') and NULL) [-Wnull-arithmetic]
+C/C++:   649 |     if (ptr == NULL) {
+C/C++:       |         ~~~ ^  ~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/gifvideo.cpp:663:13: warning: comparison between NULL and non-pointer ('jlong' (aka 'long') and NULL) [-Wnull-arithmetic]
+C/C++:   663 |     if (ptr == NULL) {
+C/C++:       |         ~~~ ^  ~~~~
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/gifvideo.cpp:19:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/ffmpeg/include/libavformat/avformat.h:312:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/ffmpeg/include/libavcodec/avcodec.h:44:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/ffmpeg/include/libavcodec/bsf.h:30:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/ffmpeg/include/libavcodec/packet.h:346:16: warning: 'convergence_duration' is deprecated [-Wdeprecated-declarations]
+C/C++:   346 | typedef struct AVPacket {
+C/C++:       |                ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/gifvideo.cpp:685:36: note: in implicit copy assignment operator for 'AVPacket' first required here
+C/C++:   685 |                     info->orig_pkt = info->pkt;
+C/C++:       |                                    ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/ffmpeg/include/libavcodec/packet.h:397:5: note: 'convergence_duration' has been explicitly marked deprecated here
+C/C++:   397 |     attribute_deprecated
+C/C++:       |     ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/ffmpeg/include/libavutil/attributes.h:100:49: note: expanded from macro 'attribute_deprecated'
+C/C++:   100 | #    define attribute_deprecated __attribute__((deprecated))
+C/C++:       |                                                 ^
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/gifvideo.cpp:19:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/ffmpeg/include/libavformat/avformat.h:312:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/ffmpeg/include/libavcodec/avcodec.h:44:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/ffmpeg/include/libavcodec/bsf.h:30:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/ffmpeg/include/libavcodec/packet.h:346:16: warning: 'convergence_duration' is deprecated [-Wdeprecated-declarations]
+C/C++:   346 | typedef struct AVPacket {
+C/C++:       |                ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/ffmpeg/include/libavcodec/packet.h:397:5: note: 'convergence_duration' has been explicitly marked deprecated here
+C/C++:   397 |     attribute_deprecated
+C/C++:       |     ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/ffmpeg/include/libavutil/attributes.h:100:49: note: expanded from macro 'attribute_deprecated'
+C/C++:   100 | #    define attribute_deprecated __attribute__((deprecated))
+C/C++:       |                                                 ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/gifvideo.cpp:875:13: warning: comparison between NULL and non-pointer ('jlong' (aka 'long') and NULL) [-Wnull-arithmetic]
+C/C++:   875 |     if (ptr == NULL || bitmap == nullptr || data == nullptr) {
+C/C++:       |         ~~~ ^  ~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/gifvideo.cpp:975:13: warning: comparison between NULL and non-pointer ('jlong' (aka 'long') and NULL) [-Wnull-arithmetic]
+C/C++:   975 |     if (ptr == NULL) {
+C/C++:       |         ~~~ ^  ~~~~
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/gifvideo.cpp:22:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/ffmpeg/include/libavcodec/get_bits.h:70:28: warning: function 'show_bits' has internal linkage but is not defined [-Wundefined-internal]
+C/C++:    70 | static inline unsigned int show_bits(GetBitContext *s, int n);
+C/C++:       |                            ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/ffmpeg/include/libavcodec/get_bits.h:666:16: note: used here
+C/C++:   666 |         return show_bits(s, n);
+C/C++:       |                ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/gifvideo.cpp:146:27: warning: unused function 'get_format' [-Wunused-function]
+C/C++:   146 | static enum AVPixelFormat get_format(AVCodecContext *ctx,
+C/C++:       |                           ^~~~~~~~~~
+C/C++: 18 warnings generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/lottie.cpp:12:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/tgnet/FileLog.h:12:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/Defines.h:142:16: warning: 'ConnectiosManagerDelegate' has virtual functions but non-virtual destructor [-Wnon-virtual-dtor]
+C/C++:   142 | typedef struct ConnectiosManagerDelegate {
+C/C++:       |                ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/Defines.h:161:16: warning: 'HandshakeDelegate' has virtual functions but non-virtual destructor [-Wnon-virtual-dtor]
+C/C++:   161 | typedef struct HandshakeDelegate {
+C/C++:       |                ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/lottie.cpp:19:1: warning: typedef requires a name [-Wmissing-declarations]
+C/C++:    19 | typedef struct LottieInfo {
+C/C++:       | ^~~~~~~
+C/C++: 3 warnings generated.
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/TgNetWrapper.cpp:2:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/tgnet/ApiScheme.h:14:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/tgnet/TLObject.h:13:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/Defines.h:142:16: warning: 'ConnectiosManagerDelegate' has virtual functions but non-virtual destructor [-Wnon-virtual-dtor]
+C/C++:   142 | typedef struct ConnectiosManagerDelegate {
+C/C++:       |                ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/tgnet/Defines.h:161:16: warning: 'HandshakeDelegate' has virtual functions but non-virtual destructor [-Wnon-virtual-dtor]
+C/C++:   161 | typedef struct HandshakeDelegate {
+C/C++:       |                ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/TgNetWrapper.cpp:334:7: warning: 'Delegate' has virtual functions but non-virtual destructor [-Wnon-virtual-dtor]
+C/C++:   334 | class Delegate : public ConnectiosManagerDelegate {
+C/C++:       |       ^
+C/C++: 3 warnings generated.
+C/C++: /home/user/telegram-official/TMessagesProj/jni/exoplayer/ffmpeg_jni.cc:22:9: warning: '__STDC_CONSTANT_MACROS' macro redefined [-Wmacro-redefined]
+C/C++:    22 | #define __STDC_CONSTANT_MACROS
+C/C++:       |         ^
+C/C++: /home/user/telegram-official/TMessagesProj/.cxx/RelWithDebInfo/39213i5m/arm64-v8a/<command line>:63:9: note: previous definition is here
+C/C++:    63 | #define __STDC_CONSTANT_MACROS 1
+C/C++:       |         ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/exoplayer/ffmpeg_jni.cc:151:3: warning: 'av_init_packet' is deprecated [-Wdeprecated-declarations]
+C/C++:   151 |   av_init_packet(&packet);
+C/C++:       |   ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/ffmpeg/include/libavcodec/packet.h:487:1: note: 'av_init_packet' has been explicitly marked deprecated here
+C/C++:   487 | attribute_deprecated
+C/C++:       | ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/ffmpeg/include/libavutil/attributes.h:100:49: note: expanded from macro 'attribute_deprecated'
+C/C++:   100 | #    define attribute_deprecated __attribute__((deprecated))
+C/C++:       |                                                 ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/exoplayer/ffmpeg_jni.cc:341:9: warning: unused variable 'inSampleSize' [-Wunused-variable]
+C/C++:   341 |     int inSampleSize = av_get_bytes_per_sample(sampleFormat);
+C/C++:       |         ^~~~~~~~~~~~
+C/C++: 3 warnings generated.
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/org_telegram_messenger_voip_Instance.cpp:321:88: warning: adding 'jint' (aka 'int') to a string does not append to the string [-Wstring-plus-int]
+C/C++:   321 |             throwNewJavaIllegalArgumentException(env, "Unknown data saving constant: " + dataSaving);
+C/C++:       |                                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/org_telegram_messenger_voip_Instance.cpp:321:88: note: use array indexing to silence this warning
+C/C++:   321 |             throwNewJavaIllegalArgumentException(env, "Unknown data saving constant: " + dataSaving);
+C/C++:       |                                                                                        ^           
+C/C++:       |                                                       &                                [           ]
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/org_telegram_messenger_voip_Instance.cpp:467:34: warning: variable length arrays in C++ are a Clang extension [-Wvla-cxx-extension]
+C/C++:   467 |                     jint intFill[size];
+C/C++:       |                                  ^~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/org_telegram_messenger_voip_Instance.cpp:467:34: note: read of non-const variable 'size' is not allowed in a constant expression
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/org_telegram_messenger_voip_Instance.cpp:462:34: note: declared here
+C/C++:   462 |                     unsigned int size = update.updates.size();
+C/C++:       |                                  ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/org_telegram_messenger_voip_Instance.cpp:468:38: warning: variable length arrays in C++ are a Clang extension [-Wvla-cxx-extension]
+C/C++:   468 |                     jfloat floatFill[size];
+C/C++:       |                                      ^~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/org_telegram_messenger_voip_Instance.cpp:468:38: note: read of non-const variable 'size' is not allowed in a constant expression
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/org_telegram_messenger_voip_Instance.cpp:462:34: note: declared here
+C/C++:   462 |                     unsigned int size = update.updates.size();
+C/C++:       |                                  ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/org_telegram_messenger_voip_Instance.cpp:469:39: warning: variable length arrays in C++ are a Clang extension [-Wvla-cxx-extension]
+C/C++:   469 |                     jboolean boolFill[size];
+C/C++:       |                                       ^~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/org_telegram_messenger_voip_Instance.cpp:469:39: note: read of non-const variable 'size' is not allowed in a constant expression
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/org_telegram_messenger_voip_Instance.cpp:462:34: note: declared here
+C/C++:   462 |                     unsigned int size = update.updates.size();
+C/C++:       |                                  ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/org_telegram_messenger_voip_Instance.cpp:519:30: warning: variable length arrays in C++ are a Clang extension [-Wvla-cxx-extension]
+C/C++:   519 |                 jint intFill[size];
+C/C++:       |                              ^~~~
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/org_telegram_messenger_voip_Instance.cpp:519:30: note: read of non-const variable 'size' is not allowed in a constant expression
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/org_telegram_messenger_voip_Instance.cpp:516:30: note: declared here
+C/C++:   516 |                 unsigned int size = ssrcs.size();
+C/C++:       |                              ^
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/org_telegram_messenger_voip_Instance.cpp:1272:39: warning: format specifies type 'int' but the argument has type 'jlong' (aka 'long') [-Wformat]
+C/C++:  1272 |     DEBUG_D("setConferenceCallId %d", call_id);
+C/C++:       |                                  ~~   ^~~~~~~
+C/C++:       |                                  %ld
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/org_telegram_messenger_voip_Instance.cpp:20:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/tgcalls/legacy/InstanceImplLegacy.h:6:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/VoIPController.h:24:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/video/VideoSource.h:12:
+C/C++: In file included from /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/video/../Buffers.h:19:
+C/C++: /home/user/telegram-official/TMessagesProj/jni/voip/libtgvoip/video/../threading.h:110:8: warning: private field 'maxPriority' is not used [-Wunused-private-field]
+C/C++:   110 |                 bool maxPriority=false;
+C/C++:       |                      ^
+C/C++: 7 warnings generated.
+
+> Task :TMessagesProj:preReleaseBuild
+> Task :TMessagesProj:mergeReleaseJniLibFolders
+> Task :TMessagesProj_App:preBuild UP-TO-DATE
+> Task :TMessagesProj_App:preAfatReleaseBuild UP-TO-DATE
+> Task :TMessagesProj:mergeReleaseNativeLibs
+> Task :TMessagesProj_App:mergeAfatReleaseJniLibFolders
+> Task :TMessagesProj:prepareReleaseArtProfile
+> Task :TMessagesProj:copyReleaseJniLibsProjectOnly
+
+> Task :TMessagesProj_App:mergeAfatReleaseArtProfile
+WARNING: [Processor] Library '/home/user/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-cast-framework/21.4.0/c48f09b1c439b395ce46bc0d1c187913819f8c7f/play-services-cast-framework-21.4.0.aar' contains references to both AndroidX and old support library. This seems like the library is partially migrated. Jetifier will try to rewrite the library anyway.
+ Example of androidX reference: 'androidx/core/app/TaskStackBuilder'
+ Example of support library reference: 'android/support/v4/media/session/MediaSessionCompat$Token'
+WARNING: [Processor] Library '/home/user/.gradle/caches/modules-2/files-2.1/androidx.car.app/app/1.4.0/406ebf5913d8c23ff636e5ef54d306560e2b5de5/app-1.4.0.aar' contains references to both AndroidX and old support library. This seems like the library is partially migrated. Jetifier will try to rewrite the library anyway.
+ Example of androidX reference: 'androidx/car/app/media/IMediaPlaybackHost'
+ Example of support library reference: 'android/support/v4/media/session/MediaSessionCompat$Token'
+
+> Task :TMessagesProj_App:mergeAfatReleaseNativeLibs
+> Task :TMessagesProj_App:expandAfatReleaseL8ArtProfileWildcards
+> Task :TMessagesProj:generateReleaseBuildConfig
+> Task :TMessagesProj:generateReleaseResValues
+
+> Task :TMessagesProj_App:stripAfatReleaseDebugSymbols
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+
+> Task :TMessagesProj:generateReleaseResources
+> Task :TMessagesProj:processReleaseGoogleServices
+
+> Task :TMessagesProj_App:extractAfatReleaseNativeDebugMetadata
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [27.2.12479018] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+
+> Task :TMessagesProj:packageReleaseResources
+> Task :TMessagesProj:parseReleaseLocalResources
+> Task :TMessagesProj:generateReleaseRFile
+> Task :TMessagesProj:javaPreCompileRelease
+> Task :TMessagesProj_App:mergeAfatReleaseNativeDebugMetadata
+> Task :TMessagesProj:compileReleaseJavaWithJavac
+Note: Some input files use or override a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+Note: Some input files use unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+> Task :TMessagesProj:mergeReleaseGeneratedProguardFiles
+> Task :TMessagesProj:exportReleaseConsumerProguardFiles
+> Task :TMessagesProj:extractProguardFiles
+
+> Task :TMessagesProj:processReleaseManifest
+/home/user/telegram-official/TMessagesProj/src/main/AndroidManifest.xml:83:5-102 Warning:
+	uses-permission#android.permission.WRITE_EXTERNAL_STORAGE was tagged at AndroidManifest.xml:83 to replace another declaration but no other declaration present
+/home/user/telegram-official/TMessagesProj/src/main/AndroidManifest.xml:97:5-701:19 Warning:
+	application@android:supportsRtl was tagged at AndroidManifest.xml:97 to replace other declarations but no other declaration present
+
+> Task :TMessagesProj:generateReleaseLibraryProguardRules
+> Task :TMessagesProj:processReleaseJavaRes NO-SOURCE
+> Task :TMessagesProj:mergeReleaseJavaResource
+> Task :TMessagesProj:bundleLibCompileToJarRelease
+> Task :TMessagesProj_App:checkAfatReleaseDuplicateClasses
+> Task :TMessagesProj_App:generateAfatReleaseBuildConfig
+> Task :TMessagesProj_App:javaPreCompileAfatRelease
+> Task :TMessagesProj:minifyReleaseWithR8
+> Task :TMessagesProj:compileReleaseLibraryResources
+> Task :TMessagesProj:writeReleaseAarMetadata
+> Task :TMessagesProj_App:checkAfatReleaseAarMetadata
+> Task :TMessagesProj_App:generateAfatReleaseResValues
+> Task :TMessagesProj_App:processAfatReleaseGoogleServices
+> Task :TMessagesProj_App:mapAfatReleaseSourceSetPaths
+> Task :TMessagesProj_App:generateAfatReleaseResources
+
+> Task :TMessagesProj_App:mergeAfatReleaseResources
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:4097:4: Multiple substitutions specified in non-positional format of string resource string/Gift2ActiveAuctionsActiveBidActive. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:4100:4: Multiple substitutions specified in non-positional format of string resource string/Gift2ActiveAuctionsActiveRound. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:4149:4: Multiple substitutions specified in non-positional format of string resource string/Gift2AuctionInfo2_one. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:4150:4: Multiple substitutions specified in non-positional format of string resource string/Gift2AuctionInfo2_other. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:4153:4: Multiple substitutions specified in non-positional format of string resource string/Gift2AuctionInfoLearnMore2_one. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:4154:4: Multiple substitutions specified in non-positional format of string resource string/Gift2AuctionInfoLearnMore2_other. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:4155:4: Multiple substitutions specified in non-positional format of string resource string/Gift2AuctionInfo_one. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:4156:4: Multiple substitutions specified in non-positional format of string resource string/Gift2AuctionInfo_other. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:4201:4: Multiple substitutions specified in non-positional format of string resource string/Gift2AuctionsChangeRecipient2. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:4211:4: Multiple substitutions specified in non-positional format of string resource string/Gift2AveragePriceHint. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:4329:4: Multiple substitutions specified in non-positional format of string resource string/Gift2InfoOutConverted_one. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:4330:4: Multiple substitutions specified in non-positional format of string resource string/Gift2InfoOutConverted_other. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:4603:4: Multiple substitutions specified in non-positional format of string resource string/GiftAuctionInfo1Text_one. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:4604:4: Multiple substitutions specified in non-positional format of string resource string/GiftAuctionInfo1Text_other. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:4703:4: Multiple substitutions specified in non-positional format of string resource string/GiftOfferPayMulti. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:6318:4: Multiple substitutions specified in non-positional format of string resource string/NotificationTopicExceptionsDesctription_one. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:6319:4: Multiple substitutions specified in non-positional format of string resource string/NotificationTopicExceptionsDesctription_other. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:8840:4: Multiple substitutions specified in non-positional format of string resource string/StarRatingDescription1. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:8841:4: Multiple substitutions specified in non-positional format of string resource string/StarRatingDescription2. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:8842:4: Multiple substitutions specified in non-positional format of string resource string/StarRatingDescription3. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:9252:4: Multiple substitutions specified in non-positional format of string resource string/StoryAddedToAlbumTitle_one. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:9253:4: Multiple substitutions specified in non-positional format of string resource string/StoryAddedToAlbumTitle_other. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:9455:4: Multiple substitutions specified in non-positional format of string resource string/StoryRemovedFromAlbumTitle_one. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:9456:4: Multiple substitutions specified in non-positional format of string resource string/StoryRemovedFromAlbumTitle_other. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:9526:4: Multiple substitutions specified in non-positional format of string resource string/SuggestAPostBelowSubtitleStarsAndTime. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:9580:4: Multiple substitutions specified in non-positional format of string resource string/SuggestionAgreementReachedAdmin1. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:9581:4: Multiple substitutions specified in non-positional format of string resource string/SuggestionAgreementReachedAdmin1PastSimple. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:9583:4: Multiple substitutions specified in non-positional format of string resource string/SuggestionAgreementReachedAdmin2. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:9584:4: Multiple substitutions specified in non-positional format of string resource string/SuggestionAgreementReachedAdmin3Stars. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:9585:4: Multiple substitutions specified in non-positional format of string resource string/SuggestionAgreementReachedAdmin3TON. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:9586:4: Multiple substitutions specified in non-positional format of string resource string/SuggestionAgreementReachedAdmin4Stars. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:9587:4: Multiple substitutions specified in non-positional format of string resource string/SuggestionAgreementReachedAdmin4TON. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:9588:4: Multiple substitutions specified in non-positional format of string resource string/SuggestionAgreementReachedUser1. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:9589:4: Multiple substitutions specified in non-positional format of string resource string/SuggestionAgreementReachedUser1PastSimple. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:9592:4: Multiple substitutions specified in non-positional format of string resource string/SuggestionAgreementReachedUser3Stars. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:9593:4: Multiple substitutions specified in non-positional format of string resource string/SuggestionAgreementReachedUser3TON. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:9594:4: Multiple substitutions specified in non-positional format of string resource string/SuggestionAgreementReachedUser4Stars. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:9595:4: Multiple substitutions specified in non-positional format of string resource string/SuggestionAgreementReachedUser4TON. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:10026:4: Multiple substitutions specified in non-positional format of string resource string/UnconfirmedAuthMultipleFrom_one. Did you mean to add the formatted="false" attribute?
+/home/user/telegram-official/TMessagesProj/build/intermediates/packaged_res/release/packageReleaseResources/values/values.xml:10027:4: Multiple substitutions specified in non-positional format of string resource string/UnconfirmedAuthMultipleFrom_other. Did you mean to add the formatted="false" attribute?
+
+> Task :TMessagesProj_App:createAfatReleaseCompatibleScreenManifests
+> Task :TMessagesProj:extractDeepLinksRelease
+> Task :TMessagesProj_App:extractDeepLinksAfatRelease
+
+> Task :TMessagesProj_App:processAfatReleaseMainManifest
+/home/user/telegram-official/TMessagesProj/config/release/AndroidManifest_SDK23.xml Warning:
+	uses-permission#android.permission.WRITE_EXTERNAL_STORAGE was tagged at AndroidManifest_SDK23.xml:0 to replace another declaration but no other declaration present
+/home/user/telegram-official/TMessagesProj/config/release/AndroidManifest_SDK23.xml:56:9-64:20 Warning:
+	receiver#com.google.android.gms.measurement.AppMeasurementReceiver@android:enabled was tagged at AndroidManifest_SDK23.xml:56 to replace other declarations but no other declaration present
+/home/user/telegram-official/TMessagesProj/config/release/AndroidManifest_SDK23.xml:66:9-70:40 Warning:
+	service#com.google.android.gms.measurement.AppMeasurementService@android:enabled was tagged at AndroidManifest_SDK23.xml:66 to replace other declarations but no other declaration present
+
+> Task :TMessagesProj_App:processAfatReleaseManifest
+> Task :TMessagesProj_App:processAfatReleaseManifestForPackage
+warn: removing resource org.telegram.messenger:string/AddManyMembersAlertNamesText_few without required default value.
+warn: removing resource org.telegram.messenger:string/AddManyMembersAlertNamesText_two without required default value.
+warn: removing resource org.telegram.messenger:string/AddManyMembersAlertTitle_few without required default value.
+warn: removing resource org.telegram.messenger:string/AddManyMembersAlertTitle_many without required default value.
+warn: removing resource org.telegram.messenger:string/AddManyMembersAlertTitle_two without required default value.
+warn: removing resource org.telegram.messenger:string/EmailPasswordConfirmText3 without required default value.
+warn: removing resource org.telegram.messenger:string/Languages_few without required default value.
+warn: removing resource org.telegram.messenger:string/Languages_many without required default value.
+warn: removing resource org.telegram.messenger:string/Languages_two without required default value.
+warn: removing resource org.telegram.messenger:string/Languages_zero without required default value.
+warn: removing resource org.telegram.messenger:string/NoContactsYet without required default value.
+warn: removing resource org.telegram.messenger:string/NoContactsYetLine1 without required default value.
+warn: removing resource org.telegram.messenger:string/NoContactsYetLine2 without required default value.
+warn: removing resource org.telegram.messenger:string/NoContactsYetLine3 without required default value.
+warn: removing resource org.telegram.messenger:string/PleaseEnterFirstPassword without required default value.
+warn: removing resource org.telegram.messenger:string/PleaseEnterPassword without required default value.
+warn: removing resource org.telegram.messenger:string/ResetAccountButton without required default value.
+warn: removing resource org.telegram.messenger:string/ResetMyAccountText without required default value.
+warn: removing resource org.telegram.messenger:string/ShareTelegram without required default value.
+warn: removing resource org.telegram.messenger:string/WidgetPasscodeEnable2 without required default value.
+warn: removing resource org.telegram.messenger:string/YourEmailCode without required default value.
+warn: removing resource org.telegram.messenger:string/YourEmailCodeInfo without required default value.
+warn: removing resource org.telegram.messenger:string/YourPasswordSuccessText without required default value.
+warn: removing resource org.telegram.messenger:string/formatterMonthName without required default value.
+warn: removing resource org.telegram.messenger:string/formatterMonthYear2 without required default value.
+
+> Task :TMessagesProj_App:processAfatReleaseResources
+> Task :TMessagesProj_App:compileAfatReleaseJavaWithJavac
+> Task :TMessagesProj_App:extractProguardFiles
+> Task :TMessagesProj_App:mergeAfatReleaseGeneratedProguardFiles
+> Task :TMessagesProj_App:processAfatReleaseJavaRes NO-SOURCE
+> Task :TMessagesProj_App:mergeAfatReleaseJavaResource
+> Task :TMessagesProj_App:mergeAfatReleaseStartupProfile
+> Task :TMessagesProj:mergeReleaseShaders
+> Task :TMessagesProj:compileReleaseShaders NO-SOURCE
+> Task :TMessagesProj:generateReleaseAssets UP-TO-DATE
+> Task :TMessagesProj:packageReleaseAssets
+> Task :TMessagesProj_App:mergeAfatReleaseShaders
+> Task :TMessagesProj_App:compileAfatReleaseShaders NO-SOURCE
+> Task :TMessagesProj_App:generateAfatReleaseAssets UP-TO-DATE
+> Task :TMessagesProj_App:mergeAfatReleaseAssets
+> Task :TMessagesProj_App:compressAfatReleaseAssets
+> Task :TMessagesProj_App:extractAfatReleaseVersionControlInfo
+> Task :TMessagesProj_App:optimizeAfatReleaseResources
+> Task :TMessagesProj_App:collectAfatReleaseDependencies
+> Task :TMessagesProj_App:sdkAfatReleaseDependencyData
+> Task :TMessagesProj_App:validateSigningAfatRelease
+> Task :TMessagesProj_App:writeAfatReleaseAppMetadata
+> Task :TMessagesProj_App:writeAfatReleaseSigningConfigVersions
+> Task :TMessagesProj:bundleLibRuntimeToJarRelease
+> Task :TMessagesProj_App:expandAfatReleaseArtProfileWildcards
+> Task :TMessagesProj_App:minifyAfatReleaseWithR8
+> Task :TMessagesProj_App:l8DexDesugarLibAfatRelease
+> Task :TMessagesProj_App:compileAfatReleaseArtProfile
+> Task :TMessagesProj_App:packageAfatRelease
+> Task :TMessagesProj_App:createAfatReleaseApkListingFileRedirect
+> Task :TMessagesProj_App:assembleAfatRelease
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/8.7/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD SUCCESSFUL in 32m 25s
+78 actionable tasks: 74 executed, 4 up-to-date
